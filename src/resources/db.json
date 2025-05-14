@@ -1,0 +1,296 @@
+{
+  "levels": [
+    {
+      "id": "L01",
+      "name": "Supply Chain CCS",
+      "description": "This is the first (top) level of the organization.",
+      "children": [
+        {
+          "id": "L01.01",
+          "name": "CSS Cold Room",
+          "description": "",
+          "children": [
+            {
+              "id": "L01.01.01",
+              "name": "Cold Rooms A",
+              "description": "",
+              "children": [],
+              "has_sensor": true,
+              "type": "COLD_ROOM",
+              "sensor_data": {
+                "warning": false,
+                "sensors": [
+                  {
+                    "id": "sensor-01",
+                    "name": "Sensor 01",
+                    "temperature": -13.5,
+                    "percentage_change": -24.6,
+                    "status": "normal"
+                  },
+                  {
+                    "id": "sensor-02",
+                    "name": "Sensor 02",
+                    "temperature": -15.8,
+                    "percentage_change": 30.6,
+                    "status": "normal"
+                  }
+                ]
+              }
+            },
+            {
+              "id": "L01.01.02",
+              "name": "Cold Rooms B",
+              "description": "",
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "L01.02",
+          "name": "CCS Distributors",
+          "description": "",
+          "children": [
+            {
+              "id": "L01.02.01",
+              "name": "Distributor 1",
+              "description": "",
+              "children": [
+                {
+                  "id": "L01.02.01.01",
+                  "name": "Freezers",
+                  "description": "",
+                  "children": [
+                    {
+                      "id": "L01.02.01.01.01",
+                      "name": "Freezer 1",
+                      "description": "",
+                      "children": [],
+                      "has_sensor": true,
+                      "type": "FREEZER"
+                    },
+                    {
+                      "id": "L01.02.01.01.02",
+                      "name": "Freezer 2",
+                      "description": "",
+                      "children": [],
+                      "has_sensor": true,
+                      "type": "FREEZER"
+                    }
+                  ]
+                },
+                {
+                  "id": "L01.02.01.02",
+                  "name": "Cold Rooms",
+                  "description": "",
+                  "children": [
+                    {
+                      "id": "L01.02.01.02.01",
+                      "name": "Cold Room 1",
+                      "description": "",
+                      "children": [],
+                      "has_sensor": true,
+                      "type": "COLD_ROOM"
+                    },
+                    {
+                      "id": "L01.02.01.02.02",
+                      "name": "Cold Room 2",
+                      "description": "",
+                      "children": [],
+                      "has_sensor": true,
+                      "type": "COLD_ROOM"
+                    }
+                  ]
+                },
+                {
+                  "id": "L01.02.01.03",
+                  "name": "Secondary vehicle",
+                  "description": "",
+                  "children": [
+                    {
+                      "id": "L01.02.01.03.01",
+                      "name": "Vehicle 1",
+                      "description": "",
+                      "children": [],
+                      "has_sensor": true,
+                      "type": "VEHICLE"
+                    },
+                    {
+                      "id": "L01.02.01.03.02",
+                      "name": "Vehicle 2",
+                      "description": "",
+                      "children": [],
+                      "has_sensor": true,
+                      "type": "VEHICLE"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id": "L01.02.02",
+              "name": "Distributor 2",
+              "description": "",
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "L01.03",
+          "name": "CCS Primary Distribution",
+          "description": "",
+          "children": [
+            {
+              "id": "L01.03.01",
+              "name": "Vehicles",
+              "description": "",
+              "children": [
+                {
+                  "id": "L01.03.01.01",
+                  "name": "Vehicle 1",
+                  "description": "",
+                  "children": [],
+                  "has_sensor": true,
+                  "sensor_data": {
+                    "warning": true,
+                    "temp_top": 90,
+                    "temp_bottom": 45
+                  },
+                  "type": "VEHICLE"
+                },
+                {
+                  "id": "L01.03.01.02",
+                  "name": "Vehicle 2",
+                  "description": "",
+                  "children": [],
+                  "has_sensor": true,
+                  "sensor_data": {
+                    "warning": false,
+                    "temp_top": 50,
+                    "temp_bottom": 10
+                  },
+                  "type": "VEHICLE"
+                },
+                {
+                  "id": "L01.03.01.03",
+                  "name": "Vehicle 3",
+                  "description": "",
+                  "children": [],
+                  "has_sensor": true,
+                  "sensor_data": {
+                    "warning": false,
+                    "temp_top": 55,
+                    "temp_bottom": 5
+                  },
+                  "type": "VEHICLE"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "L01.04",
+          "name": "OEE SYSTEM",
+          "description": "",
+          "children": [],
+          "has_sensor": true,
+          "sensor_data": {
+            "availability_rate": 10,
+            "performance_rate": 20,
+            "quality_rate": 30,
+            "total_oee": 0
+          },
+          "type": "VEHICLE"
+        },
+        {
+          "id": "L01.05",
+          "name": "Energy Management",
+          "description": "",
+          "children": [],
+          "has_sensor": true,
+          "sensor_data": {
+            "voltage": 220,
+            "ampere": 10,
+            "apparent_power": 2000,
+            "energy_consumption": 1000
+          },
+          "type": "VEHICLE"
+        }
+      ]
+    },
+    {
+      "id": "L02",
+      "name": "Supply Chain CICL",
+      "description": "",
+      "children": [
+        {
+          "id": "L02.01",
+          "name": "CICL Cold Rooms",
+          "description": "",
+          "children": [
+            {
+              "id": "L02.01.01",
+              "name": "Cold Rooms",
+              "description": "",
+              "children": [
+                {
+                  "id": "L02.01.01.01",
+                  "name": "Cold Room 1",
+                  "description": "",
+                  "children": [],
+                  "has_sensor": true,
+                  "type": "COLD_ROOM"
+                },
+                {
+                  "id": "L02.01.01.02",
+                  "name": "Cold Room 2",
+                  "description": "",
+                  "children": [],
+                  "has_sensor": true,
+                  "type": "COLD_ROOM"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "L02.02",
+          "name": "CICL Primary Distribution",
+          "description": "",
+          "children": [
+            {
+              "id": "L02.02.01",
+              "name": "Vehicles",
+              "description": "",
+              "children": [
+                {
+                  "id": "L02.02.01.01",
+                  "name": "Vehicle 1",
+                  "description": "",
+                  "children": [],
+                  "has_sensor": true,
+                  "type": "VEHICLE"
+                },
+                {
+                  "id": "L02.02.01.02",
+                  "name": "Vehicle 2",
+                  "description": "",
+                  "children": [],
+                  "has_sensor": true,
+                  "type": "VEHICLE"
+                },
+                {
+                  "id": "L02.02.01.03",
+                  "name": "Vehicle 3",
+                  "description": "",
+                  "children": [],
+                  "has_sensor": true,
+                  "type": "VEHICLE"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

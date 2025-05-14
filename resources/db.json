@@ -1,0 +1,4297 @@
+{
+  "levels": [
+    {
+      "id": "550e8400-e29b-41d4-a716-446655440000",
+      "name": "CCS",
+      "description": "Top-level hierarchy for CCS supply chain operations.",
+      "children": [
+        {
+          "id": "550e8400-e29b-41d4-a716-446655440001",
+          "name": "CCS Cold Rooms",
+          "description": "Overview of all cold storage units under CCS.",
+          "children": [
+            {
+              "id": "550e8400-e29b-41d4-a716-446655440002",
+              "name": "Keells_Ranala",
+              "description": "Overview of all cold storage units under CCS.",
+              "children": [],
+              "has_sensor": true,
+              "sensor_data": [
+                {
+                  "sensor_id": "868822046344105",
+                  "sensor_type": "temperature",
+                  "sensor_value": 20
+                }
+              ],
+              "widget_urls": [
+                "https://cfs.beelive.lk/grafana/d/53d684e5/keells-ranala?orgId=1&kiosk"
+              ],
+              "type": "COLD_ROOM"
+            }
+          ]
+        },
+        {
+          "id": "550e8400-e29b-41d4-a716-446655440004",
+          "name": "Distributors",
+          "description": "Overview of all cold storage units under CCS.",
+          "children": [
+            {
+              "id": "550e8400-e29b-41d4-a716-446655440005",
+              "name": "Ananda Distributors",
+              "description": "Overview of all cold storage units under CCS.",
+              "children": [
+                {
+                  "id": "550e8400-e29b-41d4-a716-446655440006",
+                  "name": "Freezer Truck - 226-6667",
+                  "description": "Overview of all cold storage units under CCS.",
+                  "children": [],
+                  "has_sensor": true,
+                  "sensor_data": [
+                    {
+                      "sensor_id": "28379507",
+                      "sensor_type": "temperature",
+                      "sensor_value": 20
+                    }
+                  ],
+                  "widget_urls": [
+                    "https://cfs.beelive.lk/grafana/d/a6a67a16/freezer-truck-226-6667?orgId=1&kiosk"
+                  ],
+                  "type": "DISTRIBUTOR"
+                },
+                {
+                  "id": "550e8400-e29b-41d4-a716-446655440008",
+                  "name": "Freezer Truck - 227-6527",
+                  "description": "Overview of all cold storage units under CCS.",
+                  "children": [],
+                  "has_sensor": true,
+                  "sensor_data": [
+                    {
+                      "sensor_id": "28379314",
+                      "sensor_type": "temperature",
+                      "sensor_value": 20
+                    }
+                  ],
+                  "widget_urls": [
+                    "https://cfs.beelive.lk/grafana/d/a6b91472/freezer-truck-227-6527?orgId=1&kiosk"
+                  ],
+                  "type": "DISTRIBUTOR"
+                },
+                {
+                  "id": "550e8400-e29b-41d4-a716-446655440010",
+                  "name": "Freezer Truck - 43-1459",
+                  "description": "Overview of all cold storage units under CCS.",
+                  "children": [],
+                  "has_sensor": true,
+                  "sensor_data": [
+                    {
+                      "sensor_id": "28379385",
+                      "sensor_type": "temperature",
+                      "sensor_value": 20
+                    }
+                  ],
+                  "widget_urls": [
+                    "https://cfs.beelive.lk/grafana/d/7a116867/freezer-truck-43-1459?orgId=1&kiosk"
+                  ],
+                  "type": "DISTRIBUTOR"
+                },
+                {
+                  "id": "550e8400-e29b-41d4-a716-446655440012",
+                  "name": "Freezer Truck - 68-0204",
+                  "description": "Overview of all cold storage units under CCS.",
+                  "children": [],
+                  "has_sensor": true,
+                  "sensor_data": [
+                    {
+                      "sensor_id": "28379238",
+                      "sensor_type": "temperature",
+                      "sensor_value": 20
+                    }
+                  ],
+                  "widget_urls": [
+                    "https://cfs.beelive.lk/grafana/d/673f5f77/freezer-truck-68-0204?orgId=1&kiosk"
+                  ],
+                  "type": "DISTRIBUTOR"
+                },
+                {
+                  "id": "550e8400-e29b-41d4-a716-446655440014",
+                  "name": "Freezer Truck - GN-1859",
+                  "description": "Overview of all cold storage units under CCS.",
+                  "children": [],
+                  "has_sensor": true,
+                  "sensor_data": [
+                    {
+                      "sensor_id": "28379447",
+                      "sensor_type": "temperature",
+                      "sensor_value": 20
+                    }
+                  ],
+                  "widget_urls": [
+                    "https://cfs.beelive.lk/grafana/d/5c76a30a/freezer-truck-gn-1859?orgId=1&kiosk"
+                  ],
+                  "type": "DISTRIBUTOR"
+                },
+                {
+                  "id": "550e8400-e29b-41d4-a716-446655440016",
+                  "name": "Freezer Truck - LC-7416",
+                  "description": "Overview of all cold storage units under CCS.",
+                  "children": [],
+                  "has_sensor": true,
+                  "sensor_data": [
+                    {
+                      "sensor_id": "28379559",
+                      "sensor_type": "temperature",
+                      "sensor_value": 20
+                    }
+                  ],
+                  "widget_urls": [
+                    "https://cfs.beelive.lk/grafana/d/bb4a8830/freezer-truck-lc-7416?orgId=1&kiosk"
+                  ],
+                  "type": "DISTRIBUTOR"
+                },
+                {
+                  "id": "550e8400-e29b-41d4-a716-446655440341",
+                  "name": "Cold Room",
+                  "description": "Overview of all cold storage units under CCS.",
+                  "children": [],
+                  "has_sensor": true,
+                  "sensor_data": [
+                    {
+                      "sensor_id": "352016704273994",
+                      "sensor_type": "temperature",
+                      "sensor_value": 20
+                    }
+                  ],
+                  "widget_urls": [
+                    "https://cfs.beelive.lk/grafana/d/a6f58b36/cold-room?orgId=1&kiosk"
+                  ],
+                  "type": "DISTRIBUTOR"
+                }
+              ]
+            },
+            {
+              "id": "550e8400-e29b-41d4-a716-446655440018",
+              "name": "D.D.P Niroshana Distributors",
+              "description": "Overview of all cold storage units under CCS.",
+              "children": [
+                {
+                  "id": "550e8400-e29b-41d4-a716-446655440019",
+                  "name": "Freezer Truck - GV-5001",
+                  "description": "Overview of all cold storage units under CCS.",
+                  "children": [],
+                  "has_sensor": true,
+                  "sensor_data": [
+                    {
+                      "sensor_id": "28371289",
+                      "sensor_type": "temperature",
+                      "sensor_value": 20
+                    }
+                  ],
+                  "widget_urls": [
+                    "https://cfs.beelive.lk/grafana/d/03ec81bf/freezer-truck-gv-5001?orgId=1&kiosk"
+                  ],
+                  "type": "DISTRIBUTOR"
+                },
+                {
+                  "id": "550e8400-e29b-41d4-a716-446655440021",
+                  "name": "Freezer Truck - LH-8817",
+                  "description": "Overview of all cold storage units under CCS.",
+                  "children": [],
+                  "has_sensor": true,
+                  "sensor_data": [
+                    {
+                      "sensor_id": "28371138",
+                      "sensor_type": "temperature",
+                      "sensor_value": 20
+                    }
+                  ],
+                  "widget_urls": [
+                    "https://cfs.beelive.lk/grafana/d/a69e9a75/freezer-truck-lh-8817?orgId=1&kiosk"
+                  ],
+                  "type": "DISTRIBUTOR"
+                },
+                {
+                  "id": "550e8400-e29b-41d4-a716-446655440023",
+                  "name": "Freezer Truck - LM-4464",
+                  "description": "Overview of all cold storage units under CCS.",
+                  "children": [],
+                  "has_sensor": true,
+                  "sensor_data": [
+                    {
+                      "sensor_id": "28371565",
+                      "sensor_type": "temperature",
+                      "sensor_value": 20
+                    }
+                  ],
+                  "widget_urls": [
+                    "https://cfs.beelive.lk/grafana/d/826db3d9/freezer-truck-lm-4464?orgId=1&kiosk"
+                  ],
+                  "type": "DISTRIBUTOR"
+                },
+                {
+                  "id": "550e8400-e29b-41d4-a716-446655440025",
+                  "name": "Freezer Truck - LO-3612",
+                  "description": "Overview of all cold storage units under CCS.",
+                  "children": [],
+                  "has_sensor": true,
+                  "sensor_data": [
+                    {
+                      "sensor_id": "28371312",
+                      "sensor_type": "temperature",
+                      "sensor_value": 20
+                    }
+                  ],
+                  "widget_urls": [
+                    "https://cfs.beelive.lk/grafana/d/18f8a5f4/freezer-truck-lo-3612?orgId=1&kiosk"
+                  ],
+                  "type": "DISTRIBUTOR"
+                },
+                {
+                  "id": "550e8400-e29b-41d4-a716-446655440343",
+                  "name": "Feezer",
+                  "description": "Overview of all cold storage units under CCS.",
+                  "children": [],
+                  "has_sensor": true,
+                  "sensor_data": [
+                    {
+                      "sensor_id": "352016704267491__temperature_01",
+                      "sensor_type": "temperature",
+                      "sensor_value": 20
+                    },
+                    {
+                      "sensor_id": "352016704267491__temperature_02",
+                      "sensor_type": "temperature",
+                      "sensor_value": 20
+                    }
+                  ],
+                  "widget_urls": [
+                    "https://cfs.beelive.lk/grafana/d/1905b964/feezer?orgId=1&kiosk"
+                  ],
+                  "type": "DISTRIBUTOR"
+                }
+              ]
+            },
+            {
+              "id": "550e8400-e29b-41d4-a716-446655440080",
+              "name": "Dilsha Distributors",
+              "description": "Overview of Dilsha Distributors under CCS.",
+              "children": [
+                {
+                  "id": "550e8400-e29b-41d4-a716-446655440081",
+                  "name": "Freezer Truck - DAH-0234",
+                  "description": "Overview of Dilsha Distributors under CCS.",
+                  "children": [],
+                  "has_sensor": true,
+                  "sensor_data": [
+                    {
+                      "sensor_id": "22362298",
+                      "sensor_type": "temperature",
+                      "sensor_value": 20
+                    }
+                  ],
+                  "widget_urls": [
+                    "https://cfs.beelive.lk/grafana/d/6c9c65e4/freezer-truck-dah-0234?orgId=1&kiosk"
+                  ],
+                  "type": "DISTRIBUTOR"
+                },
+                {
+                  "id": "550e8400-e29b-41d4-a716-446655440083",
+                  "name": "Freezer Truck - DAH-5136",
+                  "description": "Overview of all cold storage units under CCS.",
+                  "children": [],
+                  "has_sensor": true,
+                  "sensor_data": [
+                    {
+                      "sensor_id": "28759048",
+                      "sensor_type": "temperature",
+                      "sensor_value": 20
+                    }
+                  ],
+                  "widget_urls": [
+                    "https://cfs.beelive.lk/grafana/d/f0dfec65/freezer-truck-dah-5136?orgId=1&kiosk"
+                  ],
+                  "type": "DISTRIBUTOR"
+                }
+              ]
+            },
+            {
+              "id": "550e8400-e29b-41d4-a716-446655440085",
+              "name": "Dinanya Distributor",
+              "description": "Overview of Dinaya Distributors under CCS.",
+              "children": [
+                {
+                  "id": "550e8400-e29b-41d4-a716-446655440086",
+                  "name": "Freezer Truck - GF-2816",
+                  "description": "Overview of Dinaya Distributors under CCS.",
+                  "children": [],
+                  "has_sensor": true,
+                  "sensor_data": [
+                    {
+                      "sensor_id": "28392836",
+                      "sensor_type": "temperature",
+                      "sensor_value": 20
+                    }
+                  ],
+                  "widget_urls": [
+                    "https://cfs.beelive.lk/grafana/d/4280f6e0/freezer-truck-gf-2816?orgId=1&kiosk"
+                  ],
+                  "type": "DISTRIBUTOR"
+                },
+                {
+                  "id": "550e8400-e29b-41d4-a716-446655440088",
+                  "name": "Freezer Truck - LB-1170",
+                  "description": "Overview of Dinaya Distributors under CCS.",
+                  "children": [],
+                  "has_sensor": true,
+                  "sensor_data": [
+                    {
+                      "sensor_id": "28392139",
+                      "sensor_type": "temperature",
+                      "sensor_value": 20
+                    }
+                  ],
+                  "widget_urls": [
+                    "https://cfs.beelive.lk/grafana/d/e68b842c/freezer-truck-lb-1170?orgId=1&kiosk"
+                  ],
+                  "type": "DISTRIBUTOR"
+                },
+                {
+                  "id": "550e8400-e29b-41d4-a716-446655440348",
+                  "name": "Feezer",
+                  "description": "Overview of Dinaya Distributors under CCS.",
+                  "children": [],
+                  "has_sensor": true,
+                  "sensor_data": [
+                    {
+                      "sensor_id": "352016703986372__temperature_01",
+                      "sensor_type": "temperature",
+                      "sensor_value": 20
+                    },
+                    {
+                      "sensor_id": "352016703986372__temperature_02",
+                      "sensor_type": "temperature",
+                      "sensor_value": 20
+                    }
+                  ],
+                  "widget_urls": [
+                    "https://cfs.beelive.lk/grafana/d/7042a106/feezer?orgId=1&kiosk"
+                  ],
+                  "type": "DISTRIBUTOR"
+                }
+              ]
+            },
+            {
+              "id": "550e8400-e29b-41d4-a716-446655440090",
+              "name": "Dinesh Distributor",
+              "description": "Overview of Dinesh Distributors under CCS.",
+              "children": [
+                {
+                  "id": "550e8400-e29b-41d4-a716-446655440091",
+                  "name": "Freezer Truck - LF-1074",
+                  "description": "Overview of Dinesh Distributors under CCS.",
+                  "children": [],
+                  "has_sensor": true,
+                  "sensor_data": [
+                    {
+                      "sensor_id": "28363313",
+                      "sensor_type": "temperature",
+                      "sensor_value": 20
+                    }
+                  ],
+                  "widget_urls": [
+                    "https://cfs.beelive.lk/grafana/d/410daf7a/freezer-truck-lf-1074?orgId=1&kiosk"
+                  ],
+                  "type": "DISTRIBUTOR"
+                },
+                {
+                  "id": "550e8400-e29b-41d4-a716-446655440350",
+                  "name": "Freezer",
+                  "description": "Overview of Dinesh Distributors under CCS.",
+                  "children": [],
+                  "has_sensor": true,
+                  "sensor_data": [
+                    {
+                      "sensor_id": "352592571003524",
+                      "sensor_type": "temperature",
+                      "sensor_value": 20
+                    }
+                  ],
+                  "widget_urls": [
+                    "https://cfs.beelive.lk/grafana/d/46344a9e/freezer?orgId=1&kiosk"
+                  ],
+                  "type": "DISTRIBUTOR"
+                }
+              ]
+            },
+            {
+              "id": "550e8400-e29b-41d4-a716-446655440093",
+              "name": "DRB Enterprises",
+              "description": "Overview of DRB Enterprises  under CCS.",
+              "children": [
+                {
+                  "id": "550e8400-e29b-41d4-a716-446655440094",
+                  "name": "Freezer Truck - LA-0357",
+                  "description": "Overview of DRB Enterprises under CCS.",
+                  "children": [],
+                  "has_sensor": true,
+                  "sensor_data": [
+                    {
+                      "sensor_id": "28330864",
+                      "sensor_type": "temperature",
+                      "sensor_value": 20
+                    }
+                  ],
+                  "widget_urls": [
+                    "https://cfs.beelive.lk/grafana/d/b73ce5cd/freezer-truck-la-0357?orgId=1&kiosk"
+                  ],
+                  "type": "DISTRIBUTOR"
+                },
+                {
+                  "id": "550e8400-e29b-41d4-a716-446655440096",
+                  "name": "Freezer Truck - LP-2046",
+                  "description": "Overview of DRB Enterprises under CCS.",
+                  "children": [],
+                  "has_sensor": true,
+                  "sensor_data": [
+                    {
+                      "sensor_id": "28330534",
+                      "sensor_type": "temperature",
+                      "sensor_value": 20
+                    }
+                  ],
+                  "widget_urls": [
+                    "https://cfs.beelive.lk/grafana/d/af797eff/freezer-truck-lp-2046?orgId=1&kiosk"
+                  ],
+                  "type": "DISTRIBUTOR"
+                },
+                {
+                  "id": "550e8400-e29b-41d4-a716-446655440352",
+                  "name": "Freezer",
+                  "description": "Overview of DRB Enterprises under CCS.",
+                  "children": [],
+                  "has_sensor": true,
+                  "sensor_data": [
+                    {
+                      "sensor_id": "352592571003425",
+                      "sensor_type": "temperature",
+                      "sensor_value": 20
+                    }
+                  ],
+                  "widget_urls": [
+                    "https://cfs.beelive.lk/grafana/d/f37614da/freezer?orgId=1&kiosk"
+                  ],
+                  "type": "DISTRIBUTOR"
+                }
+              ]
+            },
+            {
+              "id": "550e8400-e29b-41d4-a716-446655440098",
+              "name": "Gayan Distributors",
+              "description": "Overview of Gayan Distributors  under CCS.",
+              "children": [
+                {
+                  "id": "550e8400-e29b-41d4-a716-446655440099",
+                  "name": "Freezer Truck - HT-5479",
+                  "description": "Overview of Gayan Distributors under CCS.",
+                  "children": [],
+                  "has_sensor": true,
+                  "sensor_data": [
+                    {
+                      "sensor_id": "28389109",
+                      "sensor_type": "temperature",
+                      "sensor_value": 20
+                    }
+                  ],
+                  "widget_urls": [
+                    "https://cfs.beelive.lk/grafana/d/0ded42f1/freezer-truck-ht-5479?orgId=1&kiosk"
+                  ],
+                  "type": "DISTRIBUTOR"
+                },
+                {
+                  "id": "550e8400-e29b-41d4-a716-446655440354",
+                  "name": "Freezer",
+                  "description": "Overview of Gayan Distributors under CCS.",
+                  "children": [],
+                  "has_sensor": true,
+                  "sensor_data": [
+                    {
+                      "sensor_id": "352016704274240__temperature_01",
+                      "sensor_type": "temperature",
+                      "sensor_value": 20
+                    },
+                    {
+                      "sensor_id": "352016704274240__temperature_02",
+                      "sensor_type": "temperature",
+                      "sensor_value": 20
+                    }
+                  ],
+                  "widget_urls": [
+                    "https://cfs.beelive.lk/grafana/d/0dcdcb60/freezer?orgId=1&kiosk"
+                  ],
+                  "type": "DISTRIBUTOR"
+                }
+              ]
+            },
+            {
+              "id": "550e8400-e29b-41d4-a716-446655440101",
+              "name": "Iceman Cold Chain - Kandana",
+              "description": "Overview of Iceman Cold Chain - Kandana under CCS.",
+              "children": [
+                {
+                  "id": "550e8400-e29b-41d4-a716-446655440102",
+                  "name": "Freezer Truck - DAH-7093",
+                  "description": "Overview of Iceman Cold Chain - Kandana under CCS.",
+                  "children": [],
+                  "has_sensor": true,
+                  "sensor_data": [
+                    {
+                      "sensor_id": "28464326",
+                      "sensor_type": "temperature",
+                      "sensor_value": 20
+                    }
+                  ],
+                  "widget_urls": [
+                    "https://cfs.beelive.lk/grafana/d/bedbaaf3/freezer-truck-dah-7093?orgId=1&kiosk"
+                  ],
+                  "type": "DISTRIBUTOR"
+                },
+                {
+                  "id": "550e8400-e29b-41d4-a716-446655440104",
+                  "name": "Freezer Truck - DAH-7168",
+                  "description": "Overview of Iceman Cold Chain - Kandana under CCS.",
+                  "children": [],
+                  "has_sensor": true,
+                  "sensor_data": [
+                    {
+                      "sensor_id": "28381970",
+                      "sensor_type": "temperature",
+                      "sensor_value": 20
+                    }
+                  ],
+                  "widget_urls": [
+                    "https://cfs.beelive.lk/grafana/d/08438824/freezer-truck-dah-7168?orgId=1&kiosk"
+                  ],
+                  "type": "DISTRIBUTOR"
+                },
+                {
+                  "id": "550e8400-e29b-41d4-a716-446655440106",
+                  "name": "Freezer Truck - GX-5359",
+                  "description": "Overview of Iceman Cold Chain - Kandana under CCS.",
+                  "children": [],
+                  "has_sensor": true,
+                  "sensor_data": [
+                    {
+                      "sensor_id": "28382000",
+                      "sensor_type": "temperature",
+                      "sensor_value": 20
+                    }
+                  ],
+                  "widget_urls": [
+                    "https://cfs.beelive.lk/grafana/d/e7b8d45b/freezer-truck-gx-5359?orgId=1&kiosk"
+                  ],
+                  "type": "DISTRIBUTOR"
+                },
+                {
+                  "id": "550e8400-e29b-41d4-a716-446655440108",
+                  "name": "Freezer Truck - LK-7120",
+                  "description": "Overview of Iceman Cold Chain - Kandana under CCS.",
+                  "children": [],
+                  "has_sensor": true,
+                  "sensor_data": [
+                    {
+                      "sensor_id": "28381985",
+                      "sensor_type": "temperature",
+                      "sensor_value": 20
+                    }
+                  ],
+                  "widget_urls": [
+                    "https://cfs.beelive.lk/grafana/d/0adab947/freezer-truck-lk-7120?orgId=1&kiosk"
+                  ],
+                  "type": "DISTRIBUTOR"
+                },
+                {
+                  "id": "550e8400-e29b-41d4-a716-446655440110",
+                  "name": "Freezer Truck - LL-2995",
+                  "description": "Overview of Iceman Cold Chain - Kandana under CCS.",
+                  "children": [],
+                  "has_sensor": true,
+                  "sensor_data": [
+                    {
+                      "sensor_id": "28382133",
+                      "sensor_type": "temperature",
+                      "sensor_value": 20
+                    }
+                  ],
+                  "widget_urls": [
+                    "https://cfs.beelive.lk/grafana/d/8ab35492/freezer-truck-ll-2995?orgId=1&kiosk"
+                  ],
+                  "type": "DISTRIBUTOR"
+                },
+                {
+                  "id": "550e8400-e29b-41d4-a716-446655440112",
+                  "name": "Freezer Truck - LO-4025",
+                  "description": "Overview of Iceman Cold Chain - Kandana under CCS.",
+                  "children": [],
+                  "has_sensor": true,
+                  "sensor_data": [
+                    {
+                      "sensor_id": "28382116",
+                      "sensor_type": "temperature",
+                      "sensor_value": 20
+                    }
+                  ],
+                  "widget_urls": [
+                    "https://cfs.beelive.lk/grafana/d/37651c69/freezer-truck-lo-4025?orgId=1&kiosk"
+                  ],
+                  "type": "DISTRIBUTOR"
+                },
+                {
+                  "id": "550e8400-e29b-41d4-a716-446655440114",
+                  "name": "Freezer Truck - LP-0558",
+                  "description": "Overview of Iceman Cold Chain - Kandana under CCS.",
+                  "children": [],
+                  "has_sensor": true,
+                  "sensor_data": [
+                    {
+                      "sensor_id": "28382064",
+                      "sensor_type": "temperature",
+                      "sensor_value": 20
+                    }
+                  ],
+                  "widget_urls": [
+                    "https://cfs.beelive.lk/grafana/d/9daf3210/freezer-truck-lp-0558?orgId=1&kiosk"
+                  ],
+                  "type": "DISTRIBUTOR"
+                },
+                {
+                  "id": "550e8400-e29b-41d4-a716-446655440116",
+                  "name": "Freezer Truck - LP-0559",
+                  "description": "Overview of Iceman Cold Chain - Kandana under CCS.",
+                  "children": [],
+                  "has_sensor": true,
+                  "sensor_data": [
+                    {
+                      "sensor_id": "28382101",
+                      "sensor_type": "temperature",
+                      "sensor_value": 20
+                    }
+                  ],
+                  "widget_urls": [
+                    "https://cfs.beelive.lk/grafana/d/52137ea0/freezer-truck-lp-0559?orgId=1&kiosk"
+                  ],
+                  "type": "DISTRIBUTOR"
+                },
+                {
+                  "id": "550e8400-e29b-41d4-a716-446655440118",
+                  "name": "Freezer Truck - LP-0593",
+                  "description": "Overview of Iceman Cold Chain - Kandana under CCS.",
+                  "children": [],
+                  "has_sensor": true,
+                  "sensor_data": [
+                    {
+                      "sensor_id": "28382087",
+                      "sensor_type": "temperature",
+                      "sensor_value": 20
+                    }
+                  ],
+                  "widget_urls": [
+                    "https://cfs.beelive.lk/grafana/d/00cdb08f/freezer-truck-lp-0593?orgId=1&kiosk"
+                  ],
+                  "type": "DISTRIBUTOR"
+                },
+                {
+                  "id": "550e8400-e29b-41d4-a716-446655440379",
+                  "name": "Cold Room 1",
+                  "description": "Overview of Iceman Cold Chain - Kandana under CCS.",
+                  "children": [],
+                  "has_sensor": true,
+                  "sensor_data": [
+                    {
+                      "sensor_id": "352016703979682",
+                      "sensor_type": "temperature",
+                      "sensor_value": 20
+                    }
+                  ],
+                  "widget_urls": [
+                    "https://cfs.beelive.lk/grafana/d/c56af8c9/cold-room-1?orgId=1&kiosk"
+                  ],
+                  "type": "DISTRIBUTOR"
+                },
+                {
+                  "id": "550e8400-e29b-41d4-a716-446655440381",
+                  "name": "Cold Room 2",
+                  "description": "Overview of Iceman Cold Chain - Kandana under CCS.",
+                  "children": [],
+                  "has_sensor": true,
+                  "sensor_data": [
+                    {
+                      "sensor_id": "353201353859231",
+                      "sensor_type": "temperature",
+                      "sensor_value": 20
+                    }
+                  ],
+                  "widget_urls": [
+                    "https://cfs.beelive.lk/grafana/d/b80a51dc/cold-room-2?orgId=1&kiosk"
+                  ],
+                  "type": "DISTRIBUTOR"
+                }
+              ]
+            },
+            {
+              "id": "550e8400-e29b-41d4-a716-446655440120",
+              "name": "Lucky Super",
+              "description": "Overview of Lucky Super under CCS.",
+              "children": [
+                {
+                  "id": "550e8400-e29b-41d4-a716-446655440121",
+                  "name": "Freezer Truck - LP-1747",
+                  "description": "Overview of Lucky Super under CCS.",
+                  "children": [],
+                  "has_sensor": true,
+                  "sensor_data": [
+                    {
+                      "sensor_id": "28464386",
+                      "sensor_type": "temperature",
+                      "sensor_value": 20
+                    }
+                  ],
+                  "widget_urls": [
+                    "https://cfs.beelive.lk/grafana/d/2c1bf7c4/freezer-truck-lp-1747?orgId=1&kiosk"
+                  ],
+                  "type": "DISTRIBUTOR"
+                },
+                {
+                  "id": "550e8400-e29b-41d4-a716-446655440393",
+                  "name": "Freezer",
+                  "description": "Overview of Lucky Super under CCS.",
+                  "children": [],
+                  "has_sensor": true,
+                  "sensor_data": [
+                    {
+                      "sensor_id": "353201353850990",
+                      "sensor_type": "temperature",
+                      "sensor_value": 20
+                    }
+                  ],
+                  "widget_urls": [
+                    "https://cfs.beelive.lk/grafana/d/b6464160/freezer?orgId=1&kiosk"
+                  ],
+                  "type": "DISTRIBUTOR"
+                }
+              ]
+            },
+            {
+              "id": "550e8400-e29b-41d4-a716-446655440123",
+              "name": "M/S Queen Distributors",
+              "description": "Overview of M/S Queen Distributors under CCS.",
+              "children": [
+                {
+                  "id": "550e8400-e29b-41d4-a716-446655440124",
+                  "name": "Freezer Truck - LC-4851",
+                  "description": "Overview of M/S Queen Distributors under CCS.",
+                  "children": [],
+                  "has_sensor": true,
+                  "sensor_data": [
+                    {
+                      "sensor_id": "28321085",
+                      "sensor_type": "temperature",
+                      "sensor_value": 20
+                    }
+                  ],
+                  "widget_urls": [
+                    "https://cfs.beelive.lk/grafana/d/e8ef5480/freezer-truck-lc-4851?orgId=1&kiosk"
+                  ],
+                  "type": "DISTRIBUTOR"
+                },
+                {
+                  "id": "550e8400-e29b-41d4-a716-446655440398",
+                  "name": "Cold Room",
+                  "description": "Overview of M/S Queen Distributors under CCS.",
+                  "children": [],
+                  "has_sensor": true,
+                  "sensor_data": [
+                    {
+                      "sensor_id": "352592577822232__temperature_01",
+                      "sensor_type": "temperature",
+                      "sensor_value": 20
+                    },
+                    {
+                      "sensor_id": "352592577822232__temperature_02",
+                      "sensor_type": "temperature",
+                      "sensor_value": 20
+                    }
+                  ],
+                  "widget_urls": [
+                    "https://cfs.beelive.lk/grafana/d/7ff648ae/cold-room?orgId=1&kiosk"
+                  ],
+                  "type": "DISTRIBUTOR"
+                }
+              ]
+            },
+            {
+              "id": "550e8400-e29b-41d4-a716-446655440126",
+              "name": "Navinda Distributors",
+              "description": "Overview of Navinda Distributors under CCS.",
+              "children": [
+                {
+                  "id": "550e8400-e29b-41d4-a716-446655440127",
+                  "name": "Freezer Truck - LB-1594",
+                  "description": "Overview of Navinda Distributors under CCS.",
+                  "children": [],
+                  "has_sensor": true,
+                  "sensor_data": [
+                    {
+                      "sensor_id": "28314914",
+                      "sensor_type": "temperature",
+                      "sensor_value": 20
+                    }
+                  ],
+                  "widget_urls": [
+                    "https://cfs.beelive.lk/grafana/d/e6c2195f/freezer-truck-lb-1594?orgId=1&kiosk"
+                  ],
+                  "type": "DISTRIBUTOR"
+                },
+                {
+                  "id": "550e8400-e29b-41d4-a716-446655440409",
+                  "name": "Freezer",
+                  "description": "Overview of Navinda Distributors under CCS.",
+                  "children": [],
+                  "has_sensor": true,
+                  "sensor_data": [
+                    {
+                      "sensor_id": "353201351855090",
+                      "sensor_type": "temperature",
+                      "sensor_value": 20
+                    }
+                  ],
+                  "widget_urls": [
+                    "https://cfs.beelive.lk/grafana/d/33ac1154/freezer?orgId=1&kiosk"
+                  ],
+                  "type": "DISTRIBUTOR"
+                }
+              ]
+            },
+            {
+              "id": "550e8400-e29b-41d4-a716-446655440129",
+              "name": "New Kanishka Distributors",
+              "description": "Overview of New Kanishka Distributors under CCS.",
+              "children": [
+                {
+                  "id": "550e8400-e29b-41d4-a716-446655440130",
+                  "name": "Freezer Truck - LO-9300",
+                  "description": "Overview of New Kanishka Distributors under CCS.",
+                  "children": [],
+                  "has_sensor": true,
+                  "sensor_data": [
+                    {
+                      "sensor_id": "28367462",
+                      "sensor_type": "temperature",
+                      "sensor_value": 20
+                    }
+                  ],
+                  "widget_urls": [
+                    "https://cfs.beelive.lk/grafana/d/bc1cafff/freezer-truck-lo-9300?orgId=1&kiosk"
+                  ],
+                  "type": "DISTRIBUTOR"
+                },
+                {
+                  "id": "550e8400-e29b-41d4-a716-446655440132",
+                  "name": "Freezer Truck - LO-9317",
+                  "description": "Overview of New Kanishka Distributors under CCS.",
+                  "children": [],
+                  "has_sensor": true,
+                  "sensor_data": [
+                    {
+                      "sensor_id": "28366757",
+                      "sensor_type": "temperature",
+                      "sensor_value": 20
+                    }
+                  ],
+                  "widget_urls": [
+                    "https://cfs.beelive.lk/grafana/d/b1f5100e/freezer-truck-lo-9317?orgId=1&kiosk"
+                  ],
+                  "type": "DISTRIBUTOR"
+                },
+                {
+                  "id": "550e8400-e29b-41d4-a716-446655440414",
+                  "name": "Freezer",
+                  "description": "Overview of New Kanishka Distributors under CCS.",
+                  "children": [],
+                  "has_sensor": true,
+                  "sensor_data": [
+                    {
+                      "sensor_id": "352016704241785__temperature_01",
+                      "sensor_type": "temperature",
+                      "sensor_value": 20
+                    },
+                    {
+                      "sensor_id": "352016704241785__temperature_02",
+                      "sensor_type": "temperature",
+                      "sensor_value": 20
+                    }
+                  ],
+                  "widget_urls": [
+                    "https://cfs.beelive.lk/grafana/d/d2b444c2/freezer?orgId=1&kiosk"
+                  ],
+                  "type": "DISTRIBUTOR"
+                }
+              ]
+            },
+            {
+              "id": "550e8400-e29b-41d4-a716-446655440134",
+              "name": "Origin Holdings",
+              "description": "Overview of Origin Holdings under CCS.",
+              "children": [
+                {
+                  "id": "550e8400-e29b-41d4-a716-446655440135",
+                  "name": "Freezer Truck - HL-2018",
+                  "description": "Overview of Origin Holdings under CCS.",
+                  "children": [],
+                  "has_sensor": true,
+                  "sensor_data": [
+                    {
+                      "sensor_id": "28388584",
+                      "sensor_type": "temperature",
+                      "sensor_value": 20
+                    }
+                  ],
+                  "widget_urls": [
+                    "https://cfs.beelive.lk/grafana/d/5259dae8/freezer-truck-hl-2018?orgId=1&kiosk"
+                  ],
+                  "type": "DISTRIBUTOR"
+                },
+                {
+                  "id": "550e8400-e29b-41d4-a716-446655440137",
+                  "name": "Freezer Truck - LJ-8512",
+                  "description": "Overview of Origin Holdings under CCS.",
+                  "children": [],
+                  "has_sensor": true,
+                  "sensor_data": [
+                    {
+                      "sensor_id": "28388711",
+                      "sensor_type": "temperature",
+                      "sensor_value": 20
+                    }
+                  ],
+                  "widget_urls": [
+                    "https://cfs.beelive.lk/grafana/d/d1380ede/freezer-truck-lj-8512?orgId=1&kiosk"
+                  ],
+                  "type": "DISTRIBUTOR"
+                },
+                {
+                  "id": "550e8400-e29b-41d4-a716-446655440139",
+                  "name": "Freezer Truck - LL-7990",
+                  "description": "Overview of Origin Holdings under CCS.",
+                  "children": [],
+                  "has_sensor": true,
+                  "sensor_data": [
+                    {
+                      "sensor_id": "28330925",
+                      "sensor_type": "temperature",
+                      "sensor_value": 20
+                    }
+                  ],
+                  "widget_urls": [
+                    "https://cfs.beelive.lk/grafana/d/61ab5fa0/freezer-truck-ll-7990?orgId=1&kiosk"
+                  ],
+                  "type": "DISTRIBUTOR"
+                },
+                {
+                  "id": "550e8400-e29b-41d4-a716-446655440141",
+                  "name": "Freezer Truck - LO-3201",
+                  "description": "Overview of Origin Holdings under CCS.",
+                  "children": [],
+                  "has_sensor": true,
+                  "sensor_data": [
+                    {
+                      "sensor_id": "28330398",
+                      "sensor_type": "temperature",
+                      "sensor_value": 20
+                    }
+                  ],
+                  "widget_urls": [
+                    "https://cfs.beelive.lk/grafana/d/01c811d3/freezer-truck-lo-3201?orgId=1&kiosk"
+                  ],
+                  "type": "DISTRIBUTOR"
+                }
+              ]
+            },
+            {
+              "id": "550e8400-e29b-41d4-a716-446655440143",
+              "name": "S J Quality Distributors",
+              "description": "Overview of S J Quality Distributors under CCS.",
+              "children": [
+                {
+                  "id": "550e8400-e29b-41d4-a716-446655440144",
+                  "name": "Freezer Truck - LL-1721",
+                  "description": "Overview of S J Quality Distributors under CCS.",
+                  "children": [],
+                  "has_sensor": true,
+                  "sensor_data": [
+                    {
+                      "sensor_id": "28297246",
+                      "sensor_type": "temperature",
+                      "sensor_value": 20
+                    }
+                  ],
+                  "widget_urls": [
+                    "https://cfs.beelive.lk/grafana/d/51ae12ea/freezer-truck-ll-1721?orgId=1&kiosk"
+                  ],
+                  "type": "DISTRIBUTOR"
+                },
+                {
+                  "id": "550e8400-e29b-41d4-a716-446655440455",
+                  "name": "Cold Room",
+                  "description": "Overview of S J Quality Distributors under CCS.",
+                  "children": [],
+                  "has_sensor": true,
+                  "sensor_data": [
+                    {
+                      "sensor_id": "352592579442203",
+                      "sensor_type": "temperature",
+                      "sensor_value": 20
+                    }
+                  ],
+                  "widget_urls": [
+                    "https://cfs.beelive.lk/grafana/d/a53eb5cb/cold-room?orgId=1&kiosk"
+                  ],
+                  "type": "DISTRIBUTOR"
+                }
+              ]
+            },
+            {
+              "id": "550e8400-e29b-41d4-a716-446655440146",
+              "name": "Silva Stores",
+              "description": "Overview of Silva Stores under CCS.",
+              "children": [
+                {
+                  "id": "550e8400-e29b-41d4-a716-446655440147",
+                  "name": "Freezer Truck - LL-6875",
+                  "description": "Overview of Silva Stores under CCS.",
+                  "children": [],
+                  "has_sensor": true,
+                  "sensor_data": [
+                    {
+                      "sensor_id": "28375444",
+                      "sensor_type": "temperature",
+                      "sensor_value": 20
+                    }
+                  ],
+                  "widget_urls": [
+                    "https://cfs.beelive.lk/grafana/d/01f92663/freezer-truck-ll-6875?orgId=1&kiosk"
+                  ],
+                  "type": "DISTRIBUTOR"
+                },
+                {
+                  "id": "550e8400-e29b-41d4-a716-446655440149",
+                  "name": "Freezer Truck - LN-6702",
+                  "description": "Overview of Silva Stores under CCS.",
+                  "children": [],
+                  "has_sensor": true,
+                  "sensor_data": [
+                    {
+                      "sensor_id": "28375556",
+                      "sensor_type": "temperature",
+                      "sensor_value": 20
+                    }
+                  ],
+                  "widget_urls": [
+                    "https://cfs.beelive.lk/grafana/d/cfb22e62/freezer-truck-ln-6702?orgId=1&kiosk"
+                  ],
+                  "type": "DISTRIBUTOR"
+                },
+                {
+                  "id": "550e8400-e29b-41d4-a716-446655440446",
+                  "name": "Freezer",
+                  "description": "Overview of Silva Stores under CCS.",
+                  "children": [],
+                  "has_sensor": true,
+                  "sensor_data": [
+                    {
+                      "sensor_id": "352016704290840",
+                      "sensor_type": "temperature",
+                      "sensor_value": 20
+                    }
+                  ],
+                  "widget_urls": [
+                    "https://cfs.beelive.lk/grafana/d/b8bc175e/freezer?orgId=1&kiosk"
+                  ],
+                  "type": "DISTRIBUTOR"
+                }
+              ]
+            },
+            {
+              "id": "550e8400-e29b-41d4-a716-446655440151",
+              "name": "Thushara Distributors",
+              "description": "Overview of Thushara Distributors under CCS.",
+              "children": [
+                {
+                  "id": "550e8400-e29b-41d4-a716-446655440152",
+                  "name": "Freezer Truck - LM-7774",
+                  "description": "Overview of Thushara Distributors under CCS.",
+                  "children": [],
+                  "has_sensor": true,
+                  "sensor_data": [
+                    {
+                      "sensor_id": "28334526",
+                      "sensor_type": "temperature",
+                      "sensor_value": 20
+                    }
+                  ],
+                  "widget_urls": [
+                    "https://cfs.beelive.lk/grafana/d/8b47d567/freezer-truck-lm-7774?orgId=1&kiosk"
+                  ],
+                  "type": "DISTRIBUTOR"
+                }
+              ]
+            },
+            {
+              "id": "550e8400-e29b-41d4-a716-446655440154",
+              "name": "Walpita Distributors",
+              "description": "Overview of Walpita Distributors under CCS.",
+              "children": [
+                {
+                  "id": "550e8400-e29b-41d4-a716-446655440155",
+                  "name": "Freezer Truck - GN-2384",
+                  "description": "Overview of Walpita Distributors under CCS.",
+                  "children": [],
+                  "has_sensor": true,
+                  "sensor_data": [
+                    {
+                      "sensor_id": "28336726",
+                      "sensor_type": "temperature",
+                      "sensor_value": 20
+                    }
+                  ],
+                  "widget_urls": [
+                    "https://cfs.beelive.lk/grafana/d/07b733e6/freezer-truck-gn-2384?orgId=1&kiosk"
+                  ],
+                  "type": "DISTRIBUTOR"
+                },
+                {
+                  "id": "550e8400-e29b-41d4-a716-446655440481",
+                  "name": "Freezer 1",
+                  "description": "Overview of Walpita Distributors under CCS.",
+                  "children": [],
+                  "has_sensor": true,
+                  "sensor_data": [
+                    {
+                      "sensor_id": "352592571529692",
+                      "sensor_type": "temperature",
+                      "sensor_value": 20
+                    }
+                  ],
+                  "widget_urls": [
+                    "https://cfs.beelive.lk/grafana/d/f1e1901d/freezer-1?orgId=1&kiosk"
+                  ],
+                  "type": "DISTRIBUTOR"
+                },
+                {
+                  "id": "550e8400-e29b-41d4-a716-446655440483",
+                  "name": "Freezer 2",
+                  "description": "Overview of Walpita Distributors under CCS.",
+                  "children": [],
+                  "has_sensor": true,
+                  "sensor_data": [
+                    {
+                      "sensor_id": "353201355646263__temperature_01",
+                      "sensor_type": "temperature",
+                      "sensor_value": 20
+                    },
+                    {
+                      "sensor_id": "353201355646263__temperature_02",
+                      "sensor_type": "temperature",
+                      "sensor_value": 20
+                    }
+                  ],
+                  "widget_urls": [
+                    "https://cfs.beelive.lk/grafana/d/f6093fc8/freezer-2?orgId=1&kiosk"
+                  ],
+                  "type": "DISTRIBUTOR"
+                }
+              ]
+            },
+            {
+              "id": "550e8400-e29b-41d4-a716-446655440157",
+              "name": "Wijesundara Distributors",
+              "description": "Overview of Wijesundara Distributors under CCS.",
+              "children": [
+                {
+                  "id": "550e8400-e29b-41d4-a716-446655440158",
+                  "name": "Freezer Truck - LA-0290",
+                  "description": "Overview of Wijesundara Distributors under CCS.",
+                  "children": [],
+                  "has_sensor": true,
+                  "sensor_data": [
+                    {
+                      "sensor_id": "28346115",
+                      "sensor_type": "temperature",
+                      "sensor_value": 20
+                    }
+                  ],
+                  "widget_urls": [
+                    "https://cfs.beelive.lk/grafana/d/54382822/freezer-truck-la-0290?orgId=1&kiosk"
+                  ],
+                  "type": "DISTRIBUTOR"
+                },
+                {
+                  "id": "550e8400-e29b-41d4-a716-446655440160",
+                  "name": "Freezer Truck - LG-9806",
+                  "description": "Overview of Wijesundara Distributors under CCS.",
+                  "children": [],
+                  "has_sensor": true,
+                  "sensor_data": [
+                    {
+                      "sensor_id": "28299669",
+                      "sensor_type": "temperature",
+                      "sensor_value": 20
+                    }
+                  ],
+                  "widget_urls": [
+                    "https://cfs.beelive.lk/grafana/d/be1fc8df/freezer-truck-lg-9806?orgId=1&kiosk"
+                  ],
+                  "type": "DISTRIBUTOR"
+                },
+                {
+                  "id": "550e8400-e29b-41d4-a716-446655440489",
+                  "name": "Freezer",
+                  "description": "Overview of Wijesundara Distributors under CCS.",
+                  "children": [],
+                  "has_sensor": true,
+                  "sensor_data": [
+                    {
+                      "sensor_id": "353201351916389__temperature_01",
+                      "sensor_type": "temperature",
+                      "sensor_value": 20
+                    },
+                    {
+                      "sensor_id": "353201351916389__temperature_02",
+                      "sensor_type": "temperature",
+                      "sensor_value": 20
+                    }
+                  ],
+                  "widget_urls": [
+                    "https://cfs.beelive.lk/grafana/d/4488abfd/freezer?orgId=1&kiosk"
+                  ],
+                  "type": "DISTRIBUTOR"
+                }
+              ]
+            },
+            {
+              "id": "550e8400-e29b-41d4-a716-446655440345",
+              "name": "Dico Agency",
+              "description": "Overview of Dico Agency under CCS.",
+              "children": [
+                {
+                  "id": "550e8400-e29b-41d4-a716-446655440346",
+                  "name": "Cold Room",
+                  "description": "Overview of Dico Agency under CCS.",
+                  "children": [],
+                  "has_sensor": true,
+                  "sensor_data": [
+                    {
+                      "sensor_id": "352625699674824",
+                      "sensor_type": "temperature",
+                      "sensor_value": 20
+                    }
+                  ],
+                  "widget_urls": [
+                    "https://cfs.beelive.lk/grafana/d/fa7507b2/cold-room?orgId=1&kiosk"
+                  ],
+                  "type": "DISTRIBUTOR"
+                }
+              ]
+            },
+            {
+              "id": "550e8400-e29b-41d4-a716-446655440356",
+              "name": "Harry Distributors",
+              "description": "Overview of Harry Distributors under CCS.",
+              "children": [
+                {
+                  "id": "550e8400-e29b-41d4-a716-446655440357",
+                  "name": "Cold Room",
+                  "description": "Overview of Harry Distributors under CCS.",
+                  "children": [],
+                  "has_sensor": true,
+                  "sensor_data": [
+                    {
+                      "sensor_id": "350317173184460",
+                      "sensor_type": "temperature",
+                      "sensor_value": 20
+                    }
+                  ],
+                  "widget_urls": [
+                    "https://cfs.beelive.lk/grafana/d/3ac4f3c2/cold-room?orgId=1&kiosk"
+                  ],
+                  "type": "DISTRIBUTOR"
+                }
+              ]
+            },
+            {
+              "id": "550e8400-e29b-41d4-a716-446655440359",
+              "name": "Harry Traders",
+              "description": "Overview of Harry Traders under CCS.",
+              "children": [
+                {
+                  "id": "550e8400-e29b-41d4-a716-446655440360",
+                  "name": "Cold Room",
+                  "description": "Overview of Harry Traders under CCS.",
+                  "children": [],
+                  "has_sensor": true,
+                  "sensor_data": [
+                    {
+                      "sensor_id": "353201355646123",
+                      "sensor_type": "temperature",
+                      "sensor_value": 20
+                    }
+                  ],
+                  "widget_urls": [
+                    "https://cfs.beelive.lk/grafana/d/91d78c23/cold-room?orgId=1&kiosk"
+                  ],
+                  "type": "DISTRIBUTOR"
+                }
+              ]
+            },
+            {
+              "id": "550e8400-e29b-41d4-a716-446655440362",
+              "name": "Harry Trading - Batticaloa",
+              "description": "Overview of Harry Trading - Batticaloa under CCS.",
+              "children": [
+                {
+                  "id": "550e8400-e29b-41d4-a716-446655440363",
+                  "name": "Cold Room",
+                  "description": "Overview of Harry Trading - Batticaloa under CCS.",
+                  "children": [],
+                  "has_sensor": true,
+                  "sensor_data": [
+                    {
+                      "sensor_id": "350317173181177",
+                      "sensor_type": "temperature",
+                      "sensor_value": 20
+                    }
+                  ],
+                  "widget_urls": [
+                    "https://cfs.beelive.lk/grafana/d/dc1cab1f/cold-room?orgId=1&kiosk"
+                  ],
+                  "type": "DISTRIBUTOR"
+                }
+              ]
+            },
+            {
+              "id": "550e8400-e29b-41d4-a716-446655440365",
+              "name": "Hathkela Stores",
+              "description": "Overview of Hathkela Stores under CCS.",
+              "children": [
+                {
+                  "id": "550e8400-e29b-41d4-a716-446655440366",
+                  "name": "Cold Room",
+                  "description": "Overview of Hathkela Stores under CCS.",
+                  "children": [],
+                  "has_sensor": true,
+                  "sensor_data": [
+                    {
+                      "sensor_id": "353201356654894",
+                      "sensor_type": "temperature",
+                      "sensor_value": 20
+                    }
+                  ],
+                  "widget_urls": [
+                    "https://cfs.beelive.lk/grafana/d/27beb135/cold-room?orgId=1&kiosk"
+                  ],
+                  "type": "DISTRIBUTOR"
+                }
+              ]
+            },
+            {
+              "id": "550e8400-e29b-41d4-a716-446655440368",
+              "name": "Hewawedige Jayantha",
+              "description": "Overview of Hewawedige Jayantha under CCS.",
+              "children": [
+                {
+                  "id": "550e8400-e29b-41d4-a716-44665544039",
+                  "name": "Cold Room",
+                  "description": "Overview of Hewawedige Jayantha under CCS.",
+                  "children": [],
+                  "has_sensor": true,
+                  "sensor_data": [
+                    {
+                      "sensor_id": "357544371171774",
+                      "sensor_type": "temperature",
+                      "sensor_value": 20
+                    }
+                  ],
+                  "widget_urls": [
+                    "https://cfs.beelive.lk/grafana/d/dcc08754/cold-room?orgId=1&kiosk"
+                  ],
+                  "type": "DISTRIBUTOR"
+                }
+              ]
+            },
+            {
+              "id": "550e8400-e29b-41d4-a716-446655440371",
+              "name": "Himale Distributor",
+              "description": "Overview of Himale Distributor under CCS.",
+              "children": [
+                {
+                  "id": "550e8400-e29b-41d4-a716-446655440372",
+                  "name": "Cold Room 1",
+                  "description": "Overview of Himale Distributor under CCS.",
+                  "children": [],
+                  "has_sensor": true,
+                  "sensor_data": [
+                    {
+                      "sensor_id": "353201353936252",
+                      "sensor_type": "temperature",
+                      "sensor_value": 20
+                    }
+                  ],
+                  "widget_urls": [
+                    "https://cfs.beelive.lk/grafana/d/015b22df/cold-room-1?orgId=1&kiosk"
+                  ],
+                  "type": "DISTRIBUTOR"
+                },
+                {
+                  "id": "550e8400-e29b-41d4-a716-446655440374",
+                  "name": "Cold Room 2",
+                  "description": "Overview of Himale Distributor under CCS.",
+                  "children": [],
+                  "has_sensor": true,
+                  "sensor_data": [
+                    {
+                      "sensor_id": "353201354078385",
+                      "sensor_type": "temperature",
+                      "sensor_value": 20
+                    }
+                  ],
+                  "widget_urls": [
+                    "https://cfs.beelive.lk/grafana/d/37d4574c/cold-room-2?orgId=1&kiosk"
+                  ],
+                  "type": "DISTRIBUTOR"
+                }
+              ]
+            },
+            {
+              "id": "550e8400-e29b-41d4-a716-446655440376",
+              "name": "HWS Siriwardhana Stores",
+              "description": "Overview of HWS Siriwardhana Stores under CCS.",
+              "children": [
+                {
+                  "id": "550e8400-e29b-41d4-a716-446655440377",
+                  "name": "Cold Room",
+                  "description": "Overview of HWS Siriwardhana Stores under CCS.",
+                  "children": [],
+                  "has_sensor": true,
+                  "sensor_data": [
+                    {
+                      "sensor_id": "350317173168133__temperature_01",
+                      "sensor_type": "temperature",
+                      "sensor_value": 20
+                    },
+                    {
+                      "sensor_id": "350317173168133__temperature_02",
+                      "sensor_type": "temperature",
+                      "sensor_value": 20
+                    }
+                  ],
+                  "widget_urls": [
+                    "https://cfs.beelive.lk/grafana/d/0016f5ae/cold-room?orgId=1&kiosk"
+                  ],
+                  "type": "DISTRIBUTOR"
+                }
+              ]
+            },
+            {
+              "id": "550e8400-e29b-41d4-a716-446655440383",
+              "name": "Iceman Cold Chain - Kandy",
+              "description": "Overview of Iceman Cold Chain - Kandy under CCS.",
+              "children": [
+                {
+                  "id": "550e8400-e29b-41d4-a716-446655440384",
+                  "name": "Cold Room 1",
+                  "description": "Overview of Iceman Cold Chain - Kandy under CCS.",
+                  "children": [],
+                  "has_sensor": true,
+                  "sensor_data": [
+                    {
+                      "sensor_id": "352016704258755__temperature_01",
+                      "sensor_type": "temperature",
+                      "sensor_value": 20
+                    },
+                    {
+                      "sensor_id": "352016704258755__temperature_02",
+                      "sensor_type": "temperature",
+                      "sensor_value": 20
+                    }
+                  ],
+                  "widget_urls": [
+                    "https://cfs.beelive.lk/grafana/d/e00eeff0/cold-room-1?orgId=1&kiosk"
+                  ],
+                  "type": "DISTRIBUTOR"
+                },
+                {
+                  "id": "550e8400-e29b-41d4-a716-446655440385",
+                  "name": "Cold Room 2",
+                  "description": "Overview of Iceman Cold Chain - Kandy under CCS.",
+                  "children": [],
+                  "has_sensor": true,
+                  "sensor_data": [
+                    {
+                      "sensor_id": "352592575663133",
+                      "sensor_type": "temperature",
+                      "sensor_value": 20
+                    }
+                  ],
+                  "widget_urls": [
+                    "https://cfs.beelive.lk/grafana/d/551a4732/cold-room-2?orgId=1&kiosk"
+                  ],
+                  "type": "DISTRIBUTOR"
+                }
+              ]
+            },
+            {
+              "id": "550e8400-e29b-41d4-a716-446655440387",
+              "name": "Isuru Distributor",
+              "description": "Overview of Isuru Distributor under CCS.",
+              "children": [
+                {
+                  "id": "550e8400-e29b-41d4-a716-446655440388",
+                  "name": "Cold Room",
+                  "description": "Overview of Isuru Distributor under CCS.",
+                  "children": [],
+                  "has_sensor": true,
+                  "sensor_data": [
+                    {
+                      "sensor_id": "353201353831768",
+                      "sensor_type": "temperature",
+                      "sensor_value": 20
+                    }
+                  ],
+                  "widget_urls": [
+                    "https://cfs.beelive.lk/grafana/d/544190f5/cold-room?orgId=1&kiosk"
+                  ],
+                  "type": "DISTRIBUTOR"
+                }
+              ]
+            },
+            {
+              "id": "550e8400-e29b-41d4-a716-446655440390",
+              "name": "Kumara Stores",
+              "description": "Overview of Kumara Stores under CCS.",
+              "children": [
+                {
+                  "id": "550e8400-e29b-41d4-a716-446655440391",
+                  "name": "Cold Room",
+                  "description": "Overview of Kumara Stores under CCS.",
+                  "children": [],
+                  "has_sensor": true,
+                  "sensor_data": [
+                    {
+                      "sensor_id": "353201355646107",
+                      "sensor_type": "temperature",
+                      "sensor_value": 20
+                    }
+                  ],
+                  "widget_urls": [
+                    "https://cfs.beelive.lk/grafana/d/984f804b/cold-room?orgId=1&kiosk"
+                  ],
+                  "type": "DISTRIBUTOR"
+                }
+              ]
+            },
+            {
+              "id": "550e8400-e29b-41d4-a716-446655440394",
+              "name": "M R Agency",
+              "description": "Overview of M R Agency under CCS.",
+              "children": [
+                {
+                  "id": "550e8400-e29b-41d4-a716-446655440395",
+                  "name": "Cold Room",
+                  "description": "Overview of M R Agency under CCS.",
+                  "children": [],
+                  "has_sensor": true,
+                  "sensor_data": [
+                    {
+                      "sensor_id": "350317173181169",
+                      "sensor_type": "temperature",
+                      "sensor_value": 20
+                    }
+                  ],
+                  "widget_urls": [
+                    "https://cfs.beelive.lk/grafana/d/342004a2/cold-room?orgId=1&kiosk"
+                  ],
+                  "type": "DISTRIBUTOR"
+                }
+              ]
+            },
+            {
+              "id": "550e8400-e29b-41d4-a716-446655440400",
+              "name": "Madduma Distributors",
+              "description": "Overview of Madduma Distributors under CCS.",
+              "children": [
+                {
+                  "id": "550e8400-e29b-41d4-a716-446655440401",
+                  "name": "Cold Room",
+                  "description": "Overview of Madduma Distributors under CCS.",
+                  "children": [],
+                  "has_sensor": true,
+                  "sensor_data": [
+                    {
+                      "sensor_id": "350317173182779",
+                      "sensor_type": "temperature",
+                      "sensor_value": 20
+                    }
+                  ],
+                  "widget_urls": [
+                    "https://cfs.beelive.lk/grafana/d/5f726328/cold-room?orgId=1&kiosk"
+                  ],
+                  "type": "DISTRIBUTOR"
+                }
+              ]
+            },
+            {
+              "id": "550e8400-e29b-41d4-a716-446655440403",
+              "name": "Maduwantha Distributors",
+              "description": "Overview of Maduwantha Distributors under CCS.",
+              "children": [
+                {
+                  "id": "550e8400-e29b-41d4-a716-446655440404",
+                  "name": "Cold Room",
+                  "description": "Overview of Maduwantha Distributors under CCS.",
+                  "children": [],
+                  "has_sensor": true,
+                  "sensor_data": [
+                    {
+                      "sensor_id": "350317173182852",
+                      "sensor_type": "temperature",
+                      "sensor_value": 20
+                    }
+                  ],
+                  "widget_urls": [
+                    "https://cfs.beelive.lk/grafana/d/71e30022/cold-room?orgId=1&kiosk"
+                  ],
+                  "type": "DISTRIBUTOR"
+                }
+              ]
+            },
+            {
+              "id": "550e8400-e29b-41d4-a716-446655440406",
+              "name": "Manasha Distributors",
+              "description": "Overview of Manasha Distributors under CCS.",
+              "children": [
+                {
+                  "id": "550e8400-e29b-41d4-a716-446655440407",
+                  "name": "Cold Room",
+                  "description": "Overview of Manasha Distributors under CCS.",
+                  "children": [],
+                  "has_sensor": true,
+                  "sensor_data": [
+                    {
+                      "sensor_id": "352016703979609",
+                      "sensor_type": "temperature",
+                      "sensor_value": 20
+                    }
+                  ],
+                  "widget_urls": [
+                    "https://cfs.beelive.lk/grafana/d/46e1b931/cold-room?orgId=1&kiosk"
+                  ],
+                  "type": "DISTRIBUTOR"
+                }
+              ]
+            },
+            {
+              "id": "550e8400-e29b-41d4-a716-446655440411",
+              "name": "Nayomi & Thushara",
+              "description": "Overview of Nayomi & Thushara under CCS.",
+              "children": [
+                {
+                  "id": "550e8400-e29b-41d4-a716-446655440412",
+                  "name": "Cold Room",
+                  "description": "Overview of Nayomi & Thushara under CCS.",
+                  "children": [],
+                  "has_sensor": true,
+                  "sensor_data": [
+                    {
+                      "sensor_id": "352592571550052",
+                      "sensor_type": "temperature",
+                      "sensor_value": 20
+                    }
+                  ],
+                  "widget_urls": [
+                    "https://cfs.beelive.lk/grafana/d/e2a8d789/cold-room?orgId=1&kiosk"
+                  ],
+                  "type": "DISTRIBUTOR"
+                }
+              ]
+            },
+            {
+              "id": "550e8400-e29b-41d4-a716-446655440416",
+              "name": "Origin Holdings - Boralasgamuwa",
+              "description": "Overview of Origin Holdings - Boralasgamuwa under CCS.",
+              "children": [
+                {
+                  "id": "550e8400-e29b-41d4-a716-446655440417",
+                  "name": "Freezer",
+                  "description": "Overview of Origin Holdings - Boralasgamuwa under CCS.",
+                  "children": [],
+                  "has_sensor": true,
+                  "sensor_data": [
+                    {
+                      "sensor_id": "352592571543347",
+                      "sensor_type": "temperature",
+                      "sensor_value": 20
+                    }
+                  ],
+                  "widget_urls": [
+                    "https://cfs.beelive.lk/grafana/d/1e8baa7e/freezer?orgId=1&kiosk"
+                  ],
+                  "type": "DISTRIBUTOR"
+                }
+              ]
+            },
+            {
+              "id": "550e8400-e29b-41d4-a716-446655440419",
+              "name": "Origin Holdings - Panadura",
+              "description": "Overview of Origin Holdings - Panadura under CCS.",
+              "children": [
+                {
+                  "id": "550e8400-e29b-41d4-a716-446655440420",
+                  "name": "Freezer",
+                  "description": "Overview of Origin Holdings - Panadura under CCS.",
+                  "children": [],
+                  "has_sensor": true,
+                  "sensor_data": [
+                    {
+                      "sensor_id": "352016704096122__temperature_01",
+                      "sensor_type": "temperature",
+                      "sensor_value": 20
+                    },
+                    {
+                      "sensor_id": "352016704096122__temperature_02",
+                      "sensor_type": "temperature",
+                      "sensor_value": 20
+                    }
+                  ],
+                  "widget_urls": [
+                    "https://cfs.beelive.lk/grafana/d/c882c58c/freezer?orgId=1&kiosk"
+                  ],
+                  "type": "DISTRIBUTOR"
+                }
+              ]
+            },
+            {
+              "id": "550e8400-e29b-41d4-a716-446655440422",
+              "name": "Piyasiri Stores",
+              "description": "Overview of Piyasiri Stores under CCS.",
+              "children": [
+                {
+                  "id": "550e8400-e29b-41d4-a716-446655440423",
+                  "name": "Cold Room",
+                  "description": "Overview of Piyasiri Stores under CCS.",
+                  "children": [],
+                  "has_sensor": true,
+                  "sensor_data": [
+                    {
+                      "sensor_id": "353201356653599",
+                      "sensor_type": "temperature",
+                      "sensor_value": 20
+                    }
+                  ],
+                  "widget_urls": [
+                    "https://cfs.beelive.lk/grafana/d/358f97bc/cold-room?orgId=1&kiosk"
+                  ],
+                  "type": "DISTRIBUTOR"
+                }
+              ]
+            },
+            {
+              "id": "550e8400-e29b-41d4-a716-446655440425",
+              "name": "Premiar Trading",
+              "description": "Overview of Premiar Trading under CCS.",
+              "children": [
+                {
+                  "id": "550e8400-e29b-41d4-a716-446655440426",
+                  "name": "Cold Room",
+                  "description": "Overview of Premiar Trading under CCS.",
+                  "children": [],
+                  "has_sensor": true,
+                  "sensor_data": [
+                    {
+                      "sensor_id": "352016704336346",
+                      "sensor_type": "temperature",
+                      "sensor_value": 20
+                    }
+                  ],
+                  "widget_urls": [
+                    "https://cfs.beelive.lk/grafana/d/e1729009/cold-room?orgId=1&kiosk"
+                  ],
+                  "type": "DISTRIBUTOR"
+                }
+              ]
+            },
+            {
+              "id": "550e8400-e29b-41d4-a716-446655440428",
+              "name": "Ramesha Distributors",
+              "description": "Overview of Ramesha Distributors under CCS.",
+              "children": [
+                {
+                  "id": "550e8400-e29b-41d4-a716-446655440429",
+                  "name": "Cold Room",
+                  "description": "Overview of Ramesha Distributors under CCS.",
+                  "children": [],
+                  "has_sensor": true,
+                  "sensor_data": [
+                    {
+                      "sensor_id": "350317173185988",
+                      "sensor_type": "temperature",
+                      "sensor_value": 20
+                    }
+                  ],
+                  "widget_urls": [
+                    "https://cfs.beelive.lk/grafana/d/08ae404c/cold-room?orgId=1&kiosk"
+                  ],
+                  "type": "DISTRIBUTOR"
+                }
+              ]
+            },
+            {
+              "id": "550e8400-e29b-41d4-a716-446655440431",
+              "name": "Ranjan - Badulla",
+              "description": "Overview of Ranjan - Badulla under CCS.",
+              "children": [
+                {
+                  "id": "550e8400-e29b-41d4-a716-446655440432",
+                  "name": "Cold Room",
+                  "description": "Overview of Ranjan - Badulla under CCS.",
+                  "children": [],
+                  "has_sensor": true,
+                  "sensor_data": [
+                    {
+                      "sensor_id": "350317173181409",
+                      "sensor_type": "temperature",
+                      "sensor_value": 20
+                    }
+                  ],
+                  "widget_urls": [
+                    "https://cfs.beelive.lk/grafana/d/2c8c48fa/cold-room?orgId=1&kiosk"
+                  ],
+                  "type": "DISTRIBUTOR"
+                }
+              ]
+            },
+            {
+              "id": "550e8400-e29b-41d4-a716-446655440434",
+              "name": "Real Lanka Distributors",
+              "description": "Overview of Real Lanka Distributors under CCS.",
+              "children": [
+                {
+                  "id": "550e8400-e29b-41d4-a716-446655440435",
+                  "name": "Cold Room",
+                  "description": "Overview of Real Lanka Distributors under CCS.",
+                  "children": [],
+                  "has_sensor": true,
+                  "sensor_data": [
+                    {
+                      "sensor_id": "350317173197413",
+                      "sensor_type": "temperature",
+                      "sensor_value": 20
+                    }
+                  ],
+                  "widget_urls": [
+                    "https://cfs.beelive.lk/grafana/d/c4bb8c40/cold-room?orgId=1&kiosk"
+                  ],
+                  "type": "DISTRIBUTOR"
+                }
+              ]
+            },
+            {
+              "id": "550e8400-e29b-41d4-a716-446655440437",
+              "name": "Rovetta Distributor",
+              "description": "Overview of Rovetta Distributor under CCS.",
+              "children": [
+                {
+                  "id": "550e8400-e29b-41d4-a716-446655440438",
+                  "name": "Cold Room",
+                  "description": "Overview of Rovetta Distributor under CCS.",
+                  "children": [],
+                  "has_sensor": true,
+                  "sensor_data": [
+                    {
+                      "sensor_id": "352016704295997",
+                      "sensor_type": "temperature",
+                      "sensor_value": 20
+                    }
+                  ],
+                  "widget_urls": [
+                    "https://cfs.beelive.lk/grafana/d/44d079fd/cold-room?orgId=1&kiosk"
+                  ],
+                  "type": "DISTRIBUTOR"
+                }
+              ]
+            },
+            {
+              "id": "550e8400-e29b-41d4-a716-446655440440",
+              "name": "S B M Distributor",
+              "description": "Overview of S B M Distributor under CCS.",
+              "children": [
+                {
+                  "id": "550e8400-e29b-41d4-a716-446655440441",
+                  "name": "Cold Room",
+                  "description": "Overview of S B M Distributor under CCS.",
+                  "children": [],
+                  "has_sensor": true,
+                  "sensor_data": [
+                    {
+                      "sensor_id": "353201353831941",
+                      "sensor_type": "temperature",
+                      "sensor_value": 20
+                    }
+                  ],
+                  "widget_urls": [
+                    "https://cfs.beelive.lk/grafana/d/d375baa0/cold-room?orgId=1&kiosk"
+                  ],
+                  "type": "DISTRIBUTOR"
+                }
+              ]
+            },
+            {
+              "id": "550e8400-e29b-41d4-a716-446655440443",
+              "name": "S Susantha Enterprises Pvt Ltd",
+              "description": "Overview of S Susantha Enterprises Pvt Ltd under CCS.",
+              "children": [
+                {
+                  "id": "550e8400-e29b-41d4-a716-446655440444",
+                  "name": "Cold Room",
+                  "description": "Overview of S Susantha Enterprises Pvt Ltd under CCS.",
+                  "children": [],
+                  "has_sensor": true,
+                  "sensor_data": [
+                    {
+                      "sensor_id": "350317173194782",
+                      "sensor_type": "temperature",
+                      "sensor_value": 20
+                    }
+                  ],
+                  "widget_urls": [
+                    "https://cfs.beelive.lk/grafana/d/6bd218e7/cold-room?orgId=1&kiosk"
+                  ],
+                  "type": "DISTRIBUTOR"
+                }
+              ]
+            },
+            {
+              "id": "550e8400-e29b-41d4-a716-446655440448",
+              "name": "Singhe_Agencies",
+              "description": "Overview of Singhe_Agencies under CCS.",
+              "children": [
+                {
+                  "id": "550e8400-e29b-41d4-a716-446655440449",
+                  "name": "Cold Room",
+                  "description": "Overview of Singhe_Agencies under CCS.",
+                  "children": [],
+                  "has_sensor": true,
+                  "sensor_data": [
+                    {
+                      "sensor_id": "353201356654803",
+                      "sensor_type": "temperature",
+                      "sensor_value": 20
+                    }
+                  ],
+                  "widget_urls": [
+                    "https://cfs.beelive.lk/grafana/d/8893975e/cold-room?orgId=1&kiosk"
+                  ],
+                  "type": "DISTRIBUTOR"
+                }
+              ]
+            },
+            {
+              "id": "550e8400-e29b-41d4-a716-446655440451",
+              "name": "Siva Distributors",
+              "description": "Overview of Siva Distributors under CCS.",
+              "children": [
+                {
+                  "id": "550e8400-e29b-41d4-a716-446655440452",
+                  "name": "Cold Room",
+                  "description": "Overview of Siva Distributors under CCS.",
+                  "children": [],
+                  "has_sensor": true,
+                  "sensor_data": [
+                    {
+                      "sensor_id": "350317173186044",
+                      "sensor_type": "temperature",
+                      "sensor_value": 20
+                    }
+                  ],
+                  "widget_urls": [
+                    "https://cfs.beelive.lk/grafana/d/f39eed05/cold-room?orgId=1&kiosk"
+                  ],
+                  "type": "DISTRIBUTOR"
+                }
+              ]
+            },
+            {
+              "id": "550e8400-e29b-41d4-a716-446655440457",
+              "name": "SJB Enterprises",
+              "description": "Overview of SJB Enterprises under CCS.",
+              "children": [
+                {
+                  "id": "550e8400-e29b-41d4-a716-446655440458",
+                  "name": "Freezer",
+                  "description": "Overview of SJB Enterprises under CCS.",
+                  "children": [],
+                  "has_sensor": true,
+                  "sensor_data": [
+                    {
+                      "sensor_id": "352592572967644__temperature_01",
+                      "sensor_type": "temperature",
+                      "sensor_value": 20
+                    },
+                    {
+                      "sensor_id": "352592572967644__temperature_02",
+                      "sensor_type": "temperature",
+                      "sensor_value": 20
+                    }
+                  ],
+                  "widget_urls": [
+                    "https://cfs.beelive.lk/grafana/d/b6472025/freezer?orgId=1&kiosk"
+                  ],
+                  "type": "DISTRIBUTOR"
+                }
+              ]
+            },
+            {
+              "id": "550e8400-e29b-41d4-a716-446655440460",
+              "name": "Small Farm Agencies",
+              "description": "Overview of Small Farm Agencies under CCS.",
+              "children": [
+                {
+                  "id": "550e8400-e29b-41d4-a716-446655440461",
+                  "name": "Cold Room",
+                  "description": "Overview of Small Farm Agencies under CCS.",
+                  "children": [],
+                  "has_sensor": true,
+                  "sensor_data": [
+                    {
+                      "sensor_id": "357544371164043",
+                      "sensor_type": "temperature",
+                      "sensor_value": 20
+                    }
+                  ],
+                  "widget_urls": [
+                    "https://cfs.beelive.lk/grafana/d/9cf72cb4/cold-room?orgId=1&kiosk"
+                  ],
+                  "type": "DISTRIBUTOR"
+                }
+              ]
+            },
+            {
+              "id": "550e8400-e29b-41d4-a716-446655440463",
+              "name": "SPL Logistics",
+              "description": "Overview of SPL Logistics under CCS.",
+              "children": [
+                {
+                  "id": "550e8400-e29b-41d4-a716-446655440464",
+                  "name": "Cold Room",
+                  "description": "Overview of SPL Logistics under CCS.",
+                  "children": [],
+                  "has_sensor": true,
+                  "sensor_data": [
+                    {
+                      "sensor_id": "353201356654720__temperature_01",
+                      "sensor_type": "temperature",
+                      "sensor_value": 20
+                    },
+                    {
+                      "sensor_id": "353201356654720__temperature_02",
+                      "sensor_type": "temperature",
+                      "sensor_value": 20
+                    }
+                  ],
+                  "widget_urls": [
+                    "https://cfs.beelive.lk/grafana/d/2e4db702/cold-room?orgId=1&kiosk"
+                  ],
+                  "type": "DISTRIBUTOR"
+                }
+              ]
+            },
+            {
+              "id": "550e8400-e29b-41d4-a716-446655440466",
+              "name": "Sujith Distributors",
+              "description": "Overview of Sujith Distributors under CCS.",
+              "children": [
+                {
+                  "id": "550e8400-e29b-41d4-a716-446655440467",
+                  "name": "Cold Room",
+                  "description": "Overview of Sujith Distributors under CCS.",
+                  "children": [],
+                  "has_sensor": true,
+                  "sensor_data": [
+                    {
+                      "sensor_id": "353201356654886",
+                      "sensor_type": "temperature",
+                      "sensor_value": 20
+                    }
+                  ],
+                  "widget_urls": [
+                    "https://cfs.beelive.lk/grafana/d/8c71c14b/cold-room?orgId=1&kiosk"
+                  ],
+                  "type": "DISTRIBUTOR"
+                }
+              ]
+            },
+            {
+              "id": "550e8400-e29b-41d4-a716-446655440469",
+              "name": "Sunil Traders",
+              "description": "Overview of Sunil Traders under CCS.",
+              "children": [
+                {
+                  "id": "550e8400-e29b-41d4-a716-446655440470",
+                  "name": "Cold Room",
+                  "description": "Overview of Sunil Traders under CCS.",
+                  "children": [],
+                  "has_sensor": true,
+                  "sensor_data": [
+                    {
+                      "sensor_id": "353201358916861",
+                      "sensor_type": "temperature",
+                      "sensor_value": 20
+                    }
+                  ],
+                  "widget_urls": [
+                    "https://cfs.beelive.lk/grafana/d/ecacd563/cold-room?orgId=1&kiosk"
+                  ],
+                  "type": "DISTRIBUTOR"
+                }
+              ]
+            },
+            {
+              "id": "550e8400-e29b-41d4-a716-446655440472",
+              "name": "T R M Trading",
+              "description": "Overview of T R M Trading under CCS.",
+              "children": [
+                {
+                  "id": "550e8400-e29b-41d4-a716-446655440473",
+                  "name": "Cold Room",
+                  "description": "Overview of T R M Trading under CCS.",
+                  "children": [],
+                  "has_sensor": true,
+                  "sensor_data": [
+                    {
+                      "sensor_id": "350317173182340",
+                      "sensor_type": "temperature",
+                      "sensor_value": 20
+                    }
+                  ],
+                  "widget_urls": [
+                    "https://cfs.beelive.lk/grafana/d/4e5264af/cold-room?orgId=1&kiosk"
+                  ],
+                  "type": "DISTRIBUTOR"
+                }
+              ]
+            },
+            {
+              "id": "550e8400-e29b-41d4-a716-446655440475",
+              "name": "Thenudi Distributors",
+              "description": "Overview of Thenudi Distributors under CCS.",
+              "children": [
+                {
+                  "id": "550e8400-e29b-41d4-a716-446655440476",
+                  "name": "Cold Room",
+                  "description": "Overview of Thenudi Distributors under CCS.",
+                  "children": [],
+                  "has_sensor": true,
+                  "sensor_data": [
+                    {
+                      "sensor_id": "350317173168216",
+                      "sensor_type": "temperature",
+                      "sensor_value": 20
+                    }
+                  ],
+                  "widget_urls": [
+                    "https://cfs.beelive.lk/grafana/d/60dcea6e/cold-room?orgId=1&kiosk"
+                  ],
+                  "type": "DISTRIBUTOR"
+                }
+              ]
+            },
+            {
+              "id": "550e8400-e29b-41d4-a716-446655440478",
+              "name": "Thissa Distributor",
+              "description": "Overview of Thissa Distributor under CCS.",
+              "children": [
+                {
+                  "id": "550e8400-e29b-41d4-a716-446655440479",
+                  "name": "Cold Room",
+                  "description": "Overview of Thissa Distributor under CCS.",
+                  "children": [],
+                  "has_sensor": true,
+                  "sensor_data": [
+                    {
+                      "sensor_id": "353201356653508",
+                      "sensor_type": "temperature",
+                      "sensor_value": 20
+                    }
+                  ],
+                  "widget_urls": [
+                    "https://cfs.beelive.lk/grafana/d/4bb038c8/cold-room?orgId=1&kiosk"
+                  ],
+                  "type": "DISTRIBUTOR"
+                }
+              ]
+            },
+            {
+              "id": "550e8400-e29b-41d4-a716-446655440485",
+              "name": "Wickramasinghe Traders",
+              "description": "Overview of Wickramasinghe Traders under CCS.",
+              "children": [
+                {
+                  "id": "550e8400-e29b-41d4-a716-446655440486",
+                  "name": "Cold Room",
+                  "description": "Overview of Wickramasinghe Traders under CCS.",
+                  "children": [],
+                  "has_sensor": true,
+                  "sensor_data": [
+                    {
+                      "sensor_id": "353201355646099",
+                      "sensor_type": "temperature",
+                      "sensor_value": 20
+                    }
+                  ],
+                  "widget_urls": [
+                    "https://cfs.beelive.lk/grafana/d/5e3f4092/cold-room?orgId=1&kiosk"
+                  ],
+                  "type": "DISTRIBUTOR"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "550e8400-e29b-41d4-a716-446655440027",
+          "name": "Vehicles",
+          "description": "Overview of all cold storage units under CCS.",
+          "children": [
+            {
+              "id": "550e8400-e29b-41d4-a716-446655440028",
+              "name": "Freezer Truck - 48-9780",
+              "description": "Overview of all cold storage units under CCS.",
+              "children": [],
+              "has_sensor": true,
+              "sensor_data": [
+                {
+                  "sensor_id": "20009734",
+                  "sensor_type": "temperature",
+                  "sensor_value": 20
+                }
+              ],
+              "widget_urls": [
+                "https://cfs.beelive.lk/grafana/d/d2838a3e/freezer-truck-48-9780?orgId=1&kiosk"
+              ],
+              "type": "VEHICLE"
+            },
+            {
+              "id": "550e8400-e29b-41d4-a716-446655440030",
+              "name": "Freezer Truck - 68-5307",
+              "description": "Overview of all cold storage units under CCS.",
+              "children": [],
+              "has_sensor": true,
+              "sensor_data": [
+                {
+                  "sensor_id": "20088809",
+                  "sensor_type": "temperature",
+                  "sensor_value": 20
+                }
+              ],
+              "widget_urls": [
+                "https://cfs.beelive.lk/grafana/d/6c24529d/freezer-truck-68-5307?orgId=1&kiosk"
+              ],
+              "type": "VEHICLE"
+            },
+            {
+              "id": "550e8400-e29b-41d4-a716-446655440032",
+              "name": "Freezer Truck - GP-8825",
+              "description": "Overview of all cold storage units under CCS.",
+              "children": [],
+              "has_sensor": true,
+              "sensor_data": [
+                {
+                  "sensor_id": "19965488",
+                  "sensor_type": "temperature",
+                  "sensor_value": 20
+                }
+              ],
+              "widget_urls": [
+                "https://cfs.beelive.lk/grafana/d/2926404e/freezer-truck-gp-8825?orgId=1&kiosk"
+              ],
+              "type": "VEHICLE"
+            },
+            {
+              "id": "550e8400-e29b-41d4-a716-446655440034",
+              "name": "Freezer Truck - GP-8833",
+              "description": "Overview of all cold storage units under CCS.",
+              "children": [],
+              "has_sensor": true,
+              "sensor_data": [
+                {
+                  "sensor_id": "19952131",
+                  "sensor_type": "temperature",
+                  "sensor_value": 20
+                }
+              ],
+              "widget_urls": [
+                "https://cfs.beelive.lk/grafana/d/cf020174/freezer-truck-gp-8833?orgId=1&kiosk"
+              ],
+              "type": "VEHICLE"
+            },
+            {
+              "id": "550e8400-e29b-41d4-a716-446655440036",
+              "name": "Freezer Truck - LC-0417",
+              "description": "Overview of all cold storage units under CCS.",
+              "children": [],
+              "has_sensor": true,
+              "sensor_data": [
+                {
+                  "sensor_id": "20106608",
+                  "sensor_type": "temperature",
+                  "sensor_value": 20
+                }
+              ],
+              "widget_urls": [
+                "https://cfs.beelive.lk/grafana/d/e5df585f/freezer-truck-lc-0417?orgId=1&kiosk"
+              ],
+              "type": "VEHICLE"
+            },
+            {
+              "id": "550e8400-e29b-41d4-a716-446655440038",
+              "name": "Freezer Truck - LC-0664",
+              "description": "Overview of all cold storage units under CCS.",
+              "children": [],
+              "has_sensor": true,
+              "sensor_data": [
+                {
+                  "sensor_id": "20033111",
+                  "sensor_type": "temperature",
+                  "sensor_value": 20
+                }
+              ],
+              "widget_urls": [
+                "https://cfs.beelive.lk/grafana/d/831dec40/freezer-truck-lc-0664?orgId=1&kiosk"
+              ],
+              "type": "VEHICLE"
+            },
+            {
+              "id": "550e8400-e29b-41d4-a716-446655440040",
+              "name": "Freezer Truck - LL-0080",
+              "description": "Overview of all cold storage units under CCS.",
+              "children": [],
+              "has_sensor": true,
+              "sensor_data": [
+                {
+                  "sensor_id": "20023493",
+                  "sensor_type": "temperature",
+                  "sensor_value": 20
+                }
+              ],
+              "widget_urls": [
+                "https://cfs.beelive.lk/grafana/d/49844b39/freezer-truck-ll-0080?orgId=1&kiosk"
+              ],
+              "type": "VEHICLE"
+            },
+            {
+              "id": "550e8400-e29b-41d4-a716-446655440042",
+              "name": "Freezer Truck - LL-0656",
+              "description": "Overview of all cold storage units under CCS.",
+              "children": [],
+              "has_sensor": true,
+              "sensor_data": [
+                {
+                  "sensor_id": "20005840",
+                  "sensor_type": "temperature",
+                  "sensor_value": 20
+                }
+              ],
+              "widget_urls": [
+                "https://cfs.beelive.lk/grafana/d/21e1b76c/freezer-truck-ll-0656?orgId=1&kiosk"
+              ],
+              "type": "VEHICLE"
+            },
+            {
+              "id": "550e8400-e29b-41d4-a716-446655440044",
+              "name": "Freezer Truck - LL-3842",
+              "description": "Overview of all cold storage units under CCS.",
+              "children": [],
+              "has_sensor": true,
+              "sensor_data": [
+                {
+                  "sensor_id": "20032508",
+                  "sensor_type": "temperature",
+                  "sensor_value": 20
+                }
+              ],
+              "widget_urls": [
+                "https://cfs.beelive.lk/grafana/d/8d53fdcd/freezer-truck-ll-3842?orgId=1&kiosk"
+              ],
+              "type": "VEHICLE"
+            },
+            {
+              "id": "550e8400-e29b-41d4-a716-446655440046",
+              "name": "Freezer Truck - LL-4301",
+              "description": "Overview of all cold storage units under CCS.",
+              "children": [],
+              "has_sensor": true,
+              "sensor_data": [
+                {
+                  "sensor_id": "20057741",
+                  "sensor_type": "temperature",
+                  "sensor_value": 20
+                }
+              ],
+              "widget_url": [
+                "http://20.197.90.170:3000/d/e32e9ef8/freezer-truck-ll-4301?orgId=1&kiosk"
+              ],
+              "type": "VEHICLE",
+              "widget_urls": [
+                "https://cfs.beelive.lk/grafana/d/fba69659/freezer-truck-ll-4301?orgId=1&kiosk"
+              ]
+            },
+            {
+              "id": "550e8400-e29b-41d4-a716-446655440048",
+              "name": "Freezer Truck - LL-8938",
+              "description": "Overview of all cold storage units under CCS.",
+              "children": [],
+              "has_sensor": true,
+              "sensor_data": [
+                {
+                  "sensor_id": "19969663",
+                  "sensor_type": "temperature",
+                  "sensor_value": 20
+                }
+              ],
+              "widget_url": [
+                "http://20.197.90.170:3000/d/a33f960e/freezer-truck-ll-8938?orgId=1&kiosk"
+              ],
+              "type": "VEHICLE",
+              "widget_urls": [
+                "https://cfs.beelive.lk/grafana/d/41f7e0aa/freezer-truck-ll-8938?orgId=1&kiosk"
+              ]
+            },
+            {
+              "id": "550e8400-e29b-41d4-a716-446655440050",
+              "name": "Freezer Truck - LL-9487",
+              "description": "Overview of all cold storage units under CCS.",
+              "children": [],
+              "has_sensor": true,
+              "sensor_data": [
+                {
+                  "sensor_id": "19968615",
+                  "sensor_type": "temperature",
+                  "sensor_value": 20
+                }
+              ],
+              "widget_url": [
+                "http://20.197.90.170:3000/d/95050d36/freezer-truck-ll-9487?orgId=1&kiosk"
+              ],
+              "type": "VEHICLE",
+              "widget_urls": [
+                "https://cfs.beelive.lk/grafana/d/902d60c5/freezer-truck-ll-9487?orgId=1&kiosk"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "550e8400-e29b-41d4-a716-446655440174",
+          "name": "Ageing Tanks",
+          "description": "Overview of all Ageing Tanks under CCS.",
+          "children": [
+            {
+              "id": "550e8400-e29b-41d4-a716-446655440175",
+              "name": " Ageing_Tank_CCS",
+              "description": "Overview of all Ageing Tanks under CCS.",
+              "children": [],
+              "has_sensor": true,
+              "sensor_data": [
+                {
+                  "sensor_id": "868822046344121",
+                  "sensor_type": "temperature",
+                  "sensor_value": 20
+                }
+              ],
+              "widget_url": [
+                ""
+              ],
+              "type": "AGEING TANKS",
+              "widget_urls": [
+                "https://cfs.beelive.lk/grafana/d/9f189b2c/ageing-tank-ccs?orgId=1&kiosk"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "550e8400-e29b-41d4-a716-446655440052",
+      "name": "KFP",
+      "description": "Top-level hierarchy for KFP operations.",
+      "children": [
+        {
+          "id": "550e8400-e29b-41d4-a716-446655440053",
+          "name": "JaEla Cold Rooms",
+          "description": "Overview of all cold storage units under KFP.",
+          "children": [
+            {
+              "id": "550e8400-e29b-41d4-a716-446655440054",
+              "name": "OD Cold Rooms",
+              "description": "Overview of all cold storage units under KFP.",
+              "children": [],
+              "has_sensor": true,
+              "sensor_data": [
+                {
+                  "sensor_id": "868822046351720",
+                  "sensor_type": "temperature",
+                  "sensor_value": 20
+                }
+              ],
+              "widget_urls": [
+                "https://cfs.beelive.lk/grafana/d/3ad576b3/od-cold-rooms?orgId=1&kiosk"
+              ],
+              "type": "COLD_ROOM"
+            },
+            {
+              "id": "550e8400-e29b-41d4-a716-446655440162",
+              "name": "Krest Cold Rooms",
+              "description": "Overview of all cold storage units under KFP.",
+              "children": [],
+              "has_sensor": true,
+              "sensor_data": [
+                {
+                  "sensor_id": "868822046344212",
+                  "sensor_type": "temperature",
+                  "sensor_value": 20
+                }
+              ],
+              "widget_urls": [
+                "https://cfs.beelive.lk/grafana/d/0f916db5/krest-cold-rooms?orgId=1&kiosk"
+              ],
+              "type": "COLD_ROOM"
+            },
+            {
+              "id": "550e8400-e29b-41d4-a716-446655440164",
+              "name": "Keells Cold Rooms",
+              "description": "Overview of all cold storage units under KFP.",
+              "children": [
+                {
+                  "id": "550e8400-e29b-41d4-a716-446655440165",
+                  "name": "Keells_Ja_Ela_03_1",
+                  "description": "Overview of all cold storage units under KFP.",
+                  "children": [],
+                  "has_sensor": true,
+                  "sensor_data": [
+                    {
+                      "sensor_id": "868822046343941",
+                      "sensor_type": "temperature",
+                      "sensor_value": 20
+                    }
+                  ],
+                  "widget_urls": [
+                    "https://cfs.beelive.lk/grafana/d/48877a26/keells-ja-ela-03-1?orgId=1&kiosk"
+                  ],
+                  "type": "COLD_ROOM"
+                },
+                {
+                  "id": "550e8400-e29b-41d4-a716-446655440167",
+                  "name": "Keells_Ja_Ela_03_2",
+                  "description": "Overview of all cold storage units under KFP.",
+                  "children": [],
+                  "has_sensor": true,
+                  "sensor_data": [
+                    {
+                      "sensor_id": "868822046885891",
+                      "sensor_type": "temperature",
+                      "sensor_value": 20
+                    }
+                  ],
+                  "widget_urls": [
+                    "https://cfs.beelive.lk/grafana/d/3c820a66/keells-ja-ela-03-2?orgId=1&kiosk"
+                  ],
+                  "type": "COLD_ROOM"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "550e8400-e29b-41d4-a716-446655440169",
+          "name": "Pannala Cold Rooms",
+          "description": "Overview of all cold storage units under KFP.",
+          "children": [
+            {
+              "id": "550e8400-e29b-41d4-a716-446655440170",
+              "name": "Keells_Pannala_01",
+              "description": "Overview of all cold storage units under KFP.",
+              "children": [],
+              "has_sensor": true,
+              "sensor_data": [
+                {
+                  "sensor_id": "868822047437130",
+                  "sensor_type": "temperature",
+                  "sensor_value": 20
+                }
+              ],
+              "widget_urls": [
+                "https://cfs.beelive.lk/grafana/d/775f650e/keells-pannala-01?orgId=1&kiosk"
+              ],
+              "type": "COLD_ROOM"
+            },
+            {
+              "id": "550e8400-e29b-41d4-a716-446655440172",
+              "name": "Keells_Pannala_02",
+              "description": "Overview of all cold storage units under KFP.",
+              "children": [],
+              "has_sensor": true,
+              "sensor_data": [
+                {
+                  "sensor_id": "868822046352488",
+                  "sensor_type": "temperature",
+                  "sensor_value": 20
+                }
+              ],
+              "widget_urls": [
+                "https://cfs.beelive.lk/grafana/d/d18129d9/keells-pannala-02?orgId=1&kiosk"
+              ],
+              "type": "COLD_ROOM"
+            },
+            {
+              "id": "550e8400-e29b-41d4-a716-446655440341",
+              "name": "Cool_Room_near_the_Guardroom_Pannala",
+              "description": "Overview of all cold storage units under KFP.",
+              "children": [],
+              "has_sensor": true,
+              "sensor_data": [
+                {
+                  "sensor_id": "350424061424444",
+                  "sensor_type": "temperature",
+                  "sensor_value": 20
+                }
+              ],
+              "widget_urls": [
+                "https://cfs.beelive.lk/grafana/d/25c45e40/cool-room-near-the-guardroom-pannala?orgId=1&kiosk"
+              ],
+              "type": "COLD_ROOM"
+            }
+          ]
+        },
+        {
+          "id": "550e8400-e29b-41d4-a716-446655440177",
+          "name": "Distributors",
+          "description": "Overview of all distributors under KFP.",
+          "children": [
+            {
+              "id": "550e8400-e29b-41d4-a716-446655440178",
+              "name": "Amarasekara Distributors",
+              "description": "Overview of Amarasekara Distributors under KFP.",
+              "children": [
+                {
+                  "id": "550e8400-e29b-41d4-a716-446655440179",
+                  "name": "Freezer Truck - PS-3232",
+                  "description": "Overview of Amarasekara Distributors under KFP.",
+                  "children": [],
+                  "has_sensor": true,
+                  "sensor_data": [
+                    {
+                      "sensor_id": "28681919",
+                      "sensor_type": "temperature",
+                      "sensor_value": 20
+                    }
+                  ],
+                  "widget_urls": [
+                    "https://cfs.beelive.lk/grafana/d/d00da93e/freezer-truck-ps-3232?orgId=1&kiosk"
+                  ],
+                  "type": "DISTRIBUTOR"
+                }
+              ]
+            },
+            {
+              "id": "550e8400-e29b-41d4-a716-446655440181",
+              "name": "AR Distributors",
+              "description": "Overview of AR Distributors under KFP.",
+              "children": [
+                {
+                  "id": "550e8400-e29b-41d4-a716-446655440182",
+                  "name": "Freezer Truck - 43-6958",
+                  "description": "Overview of AR Distributors under KFP.",
+                  "children": [],
+                  "has_sensor": true,
+                  "sensor_data": [
+                    {
+                      "sensor_id": "26074333",
+                      "sensor_type": "temperature",
+                      "sensor_value": 20
+                    }
+                  ],
+                  "widget_urls": [
+                    "https://cfs.beelive.lk/grafana/d/76c79548/freezer-truck-43-6958?orgId=1&kiosk"
+                  ],
+                  "type": "DISTRIBUTOR"
+                },
+                {
+                  "id": "550e8400-e29b-41d4-a716-446655440184",
+                  "name": "Freezer Truck - HI-2757",
+                  "description": "Overview of AR Distributors under KFP.",
+                  "children": [],
+                  "has_sensor": true,
+                  "sensor_data": [
+                    {
+                      "sensor_id": "28758999",
+                      "sensor_type": "temperature",
+                      "sensor_value": 20
+                    }
+                  ],
+                  "widget_urls": [
+                    "https://cfs.beelive.lk/grafana/d/3c2f2f41/freezer-truck-hi-2757?orgId=1&kiosk"
+                  ],
+                  "type": "DISTRIBUTOR"
+                },
+                {
+                  "id": "550e8400-e29b-41d4-a716-446655440186",
+                  "name": "Freezer Truck - PP-5779",
+                  "description": "Overview of AR Distributors under KFP.",
+                  "children": [],
+                  "has_sensor": true,
+                  "sensor_data": [
+                    {
+                      "sensor_id": "26074317",
+                      "sensor_type": "temperature",
+                      "sensor_value": 20
+                    }
+                  ],
+                  "widget_urls": [
+                    "https://cfs.beelive.lk/grafana/d/5d6ffc0a/freezer-truck-pp-5779?orgId=1&kiosk"
+                  ],
+                  "type": "DISTRIBUTOR"
+                }
+              ]
+            },
+            {
+              "id": "550e8400-e29b-41d4-a716-446655440188",
+              "name": "Danro Stores",
+              "description": "Overview of Danro Stores under KFP.",
+              "children": [
+                {
+                  "id": "550e8400-e29b-41d4-a716-446655440189",
+                  "name": "Freezer Truck - LB-3345",
+                  "description": "Overview of Danro Stores under KFP.",
+                  "children": [],
+                  "has_sensor": true,
+                  "sensor_data": [
+                    {
+                      "sensor_id": "28716479",
+                      "sensor_type": "temperature",
+                      "sensor_value": 20
+                    }
+                  ],
+                  "widget_urls": [
+                    "https://cfs.beelive.lk/grafana/d/009d531d/freezer-truck-lb-3345?orgId=1&kiosk"
+                  ],
+                  "type": "DISTRIBUTOR"
+                }
+              ]
+            },
+            {
+              "id": "550e8400-e29b-41d4-a716-446655440191",
+              "name": "Dhammika Cold",
+              "description": "Overview of Dhammika Cold under KFP.",
+              "children": [
+                {
+                  "id": "550e8400-e29b-41d4-a716-446655440192",
+                  "name": "Freezer Truck - DAH-4358",
+                  "description": "Overview of Dhammika Cold under KFP.",
+                  "children": [],
+                  "has_sensor": true,
+                  "sensor_data": [
+                    {
+                      "sensor_id": "25803297",
+                      "sensor_type": "temperature",
+                      "sensor_value": 20
+                    }
+                  ],
+                  "widget_urls": [
+                    "https://cfs.beelive.lk/grafana/d/efb428a5/freezer-truck-dah-4358?orgId=1&kiosk"
+                  ],
+                  "type": "DISTRIBUTOR"
+                },
+                {
+                  "id": "550e8400-e29b-41d4-a716-446655440194",
+                  "name": "Freezer Truck - DAH-7360",
+                  "description": "Overview of Dhammika Cold under KFP.",
+                  "children": [],
+                  "has_sensor": true,
+                  "sensor_data": [
+                    {
+                      "sensor_id": "25803479",
+                      "sensor_type": "temperature",
+                      "sensor_value": 20
+                    }
+                  ],
+                  "widget_urls": [
+                    "https://cfs.beelive.lk/grafana/d/5d968a65/freezer-truck-dah-7360?orgId=1&kiosk"
+                  ],
+                  "type": "DISTRIBUTOR"
+                }
+              ]
+            },
+            {
+              "id": "550e8400-e29b-41d4-a716-446655440196",
+              "name": "Dilsha Distributors",
+              "description": "Overview of Dilsha Distributors under KFP.",
+              "children": [
+                {
+                  "id": "550e8400-e29b-41d4-a716-446655440197",
+                  "name": "Freezer Truck - LE-1378",
+                  "description": "Overview of Dilsha Distributors under KFP.",
+                  "children": [],
+                  "has_sensor": true,
+                  "sensor_data": [
+                    {
+                      "sensor_id": "28768651",
+                      "sensor_type": "temperature",
+                      "sensor_value": 20
+                    }
+                  ],
+                  "widget_urls": [
+                    "https://cfs.beelive.lk/grafana/d/6f664c52/freezer-truck-le-1378?orgId=1&kiosk"
+                  ],
+                  "type": "DISTRIBUTOR"
+                }
+              ]
+            },
+            {
+              "id": "550e8400-e29b-41d4-a716-446655440199",
+              "name": "Geethika Distributors",
+              "description": "Overview of Geethika Distributors under KFP.",
+              "children": [
+                {
+                  "id": "550e8400-e29b-41d4-a716-446655440200",
+                  "name": "Freezer Truck - HI-0446",
+                  "description": "Overview of Geethika Distributors under KFP.",
+                  "children": [],
+                  "has_sensor": true,
+                  "sensor_data": [
+                    {
+                      "sensor_id": "25807448",
+                      "sensor_type": "temperature",
+                      "sensor_value": 20
+                    }
+                  ],
+                  "widget_urls": [
+                    "https://cfs.beelive.lk/grafana/d/e1c950ce/freezer-truck-hi-0446?orgId=1&kiosk"
+                  ],
+                  "type": "DISTRIBUTOR"
+                }
+              ]
+            },
+            {
+              "id": "550e8400-e29b-41d4-a716-446655440202",
+              "name": "Gunasekara Distributors",
+              "description": "Overview of Gunasekara Distributors under KFP.",
+              "children": [
+                {
+                  "id": "550e8400-e29b-41d4-a716-446655440203",
+                  "name": "Freezer Truck - DAG-2402",
+                  "description": "Overview of Gunasekara Distributors under KFP.",
+                  "children": [],
+                  "has_sensor": true,
+                  "sensor_data": [
+                    {
+                      "sensor_id": "25831774",
+                      "sensor_type": "temperature",
+                      "sensor_value": 20
+                    }
+                  ],
+                  "widget_urls": [
+                    "https://cfs.beelive.lk/grafana/d/c1a11430/freezer-truck-dag-2402?orgId=1&kiosk"
+                  ],
+                  "type": "DISTRIBUTOR"
+                },
+                {
+                  "id": "550e8400-e29b-41d4-a716-446655440205",
+                  "name": "Freezer Truck - DAH-0233",
+                  "description": "Overview of Gunasekara Distributors under KFP.",
+                  "children": [],
+                  "has_sensor": true,
+                  "sensor_data": [
+                    {
+                      "sensor_id": "25831550",
+                      "sensor_type": "temperature",
+                      "sensor_value": 20
+                    }
+                  ],
+                  "widget_urls": [
+                    "https://cfs.beelive.lk/grafana/d/177f3acd/freezer-truck-dah-0233?orgId=1&kiosk"
+                  ],
+                  "type": "DISTRIBUTOR"
+                },
+                {
+                  "id": "550e8400-e29b-41d4-a716-446655440207",
+                  "name": "Freezer Truck - DAH-2582 ",
+                  "description": "Overview of Gunasekara Distributors under KFP.",
+                  "children": [],
+                  "has_sensor": true,
+                  "sensor_data": [
+                    {
+                      "sensor_id": "25831675",
+                      "sensor_type": "temperature",
+                      "sensor_value": 20
+                    }
+                  ],
+                  "widget_urls": [
+                    "https://cfs.beelive.lk/grafana/d/dc82b6a8/freezer-truck-dah-2582?orgId=1&kiosk"
+                  ],
+                  "type": "DISTRIBUTOR"
+                }
+              ]
+            },
+            {
+              "id": "550e8400-e29b-41d4-a716-446655440209",
+              "name": "H.T.S. Enterprises",
+              "description": "Overview of H.T.S. Enterprises under KFP.",
+              "children": [
+                {
+                  "id": "550e8400-e29b-41d4-a716-446655440210",
+                  "name": "Freezer Truck - DAF-0754",
+                  "description": "Overview of H.T.S. Enterprises under KFP.",
+                  "children": [],
+                  "has_sensor": true,
+                  "sensor_data": [
+                    {
+                      "sensor_id": "25815345",
+                      "sensor_type": "temperature",
+                      "sensor_value": 20
+                    }
+                  ],
+                  "widget_urls": [
+                    "https://cfs.beelive.lk/grafana/d/9ecbc7df/freezer-truck-daf-0754?orgId=1&kiosk"
+                  ],
+                  "type": "DISTRIBUTOR"
+                }
+              ]
+            },
+            {
+              "id": "550e8400-e29b-41d4-a716-446655440212",
+              "name": "HJM Distributors",
+              "description": "Overview of HJM Distributors under KFP.",
+              "children": [
+                {
+                  "id": "550e8400-e29b-41d4-a716-446655440213",
+                  "name": "Freezer Truck - DAB-3700",
+                  "description": "Overview of HJM Distributors under KFP.",
+                  "children": [],
+                  "has_sensor": true,
+                  "sensor_data": [
+                    {
+                      "sensor_id": "25161139",
+                      "sensor_type": "temperature",
+                      "sensor_value": 20
+                    }
+                  ],
+                  "widget_urls": [
+                    "https://cfs.beelive.lk/grafana/d/a15fd9f4/freezer-truck-dab-3700?orgId=1&kiosk"
+                  ],
+                  "type": "DISTRIBUTOR"
+                }
+              ]
+            },
+            {
+              "id": "550e8400-e29b-41d4-a716-446655440215",
+              "name": "Kenora Distributor",
+              "description": "Overview of Kenora Distributor under KFP.",
+              "children": [
+                {
+                  "id": "550e8400-e29b-41d4-a716-446655440216",
+                  "name": "Freezer Truck - DAF-0772",
+                  "description": "Overview of Kenora Distributor under KFP.",
+                  "children": [],
+                  "has_sensor": true,
+                  "sensor_data": [
+                    {
+                      "sensor_id": "28685363",
+                      "sensor_type": "temperature",
+                      "sensor_value": 20
+                    }
+                  ],
+                  "widget_urls": [
+                    "https://cfs.beelive.lk/grafana/d/b503d335/freezer-truck-daf-0772?orgId=1&kiosk"
+                  ],
+                  "type": "DISTRIBUTOR"
+                },
+                {
+                  "id": "550e8400-e29b-41d4-a716-446655440218",
+                  "name": "Freezer Truck - DAG-2884",
+                  "description": "Overview of Kenora Distributor under KFP.",
+                  "children": [],
+                  "has_sensor": true,
+                  "sensor_data": [
+                    {
+                      "sensor_id": "28685318",
+                      "sensor_type": "temperature",
+                      "sensor_value": 20
+                    }
+                  ],
+                  "widget_urls": [
+                    "https://cfs.beelive.lk/grafana/d/2b050dcb/freezer-truck-dag-2884?orgId=1&kiosk"
+                  ],
+                  "type": "DISTRIBUTOR"
+                }
+              ]
+            },
+            {
+              "id": "550e8400-e29b-41d4-a716-446655440220",
+              "name": "Manasha holding",
+              "description": "Overview of Manasha holding under KFP.",
+              "children": [
+                {
+                  "id": "550e8400-e29b-41d4-a716-446655440221",
+                  "name": "Freezer Truck - PD-5038",
+                  "description": "Overview of Manasha holding under KFP.",
+                  "children": [],
+                  "has_sensor": true,
+                  "sensor_data": [
+                    {
+                      "sensor_id": "28737758",
+                      "sensor_type": "temperature",
+                      "sensor_value": 20
+                    }
+                  ],
+                  "widget_urls": [
+                    "https://cfs.beelive.lk/grafana/d/1c04efaa/freezer-truck-pd-5038?orgId=1&kiosk"
+                  ],
+                  "type": "DISTRIBUTOR"
+                }
+              ]
+            },
+            {
+              "id": "550e8400-e29b-41d4-a716-446655440223",
+              "name": "Manasha Holdings",
+              "description": "Overview of Manasha Holdings under KFP.",
+              "children": [
+                {
+                  "id": "550e8400-e29b-41d4-a716-446655440224",
+                  "name": "Freezer Truck - LG-4496",
+                  "description": "Overview of Manasha Holdings under KFP.",
+                  "children": [],
+                  "has_sensor": true,
+                  "sensor_data": [
+                    {
+                      "sensor_id": "25807019",
+                      "sensor_type": "temperature",
+                      "sensor_value": 20
+                    }
+                  ],
+                  "widget_urls": [
+                    "https://cfs.beelive.lk/grafana/d/91618a58/freezer-truck-lg-4496?orgId=1&kiosk"
+                  ],
+                  "type": "DISTRIBUTOR"
+                }
+              ]
+            },
+            {
+              "id": "550e8400-e29b-41d4-a716-446655440226",
+              "name": "New Frozen City",
+              "description": "Overview of New Frozen City under KFP.",
+              "children": [
+                {
+                  "id": "550e8400-e29b-41d4-a716-446655440227",
+                  "name": "Freezer Truck - DAH-6298",
+                  "description": "Overview of New Frozen City under KFP.",
+                  "children": [],
+                  "has_sensor": true,
+                  "sensor_data": [
+                    {
+                      "sensor_id": "25127387",
+                      "sensor_type": "temperature",
+                      "sensor_value": 20
+                    }
+                  ],
+                  "widget_urls": [
+                    "https://cfs.beelive.lk/grafana/d/d59ac838/freezer-truck-dah-6298?orgId=1&kiosk"
+                  ],
+                  "type": "DISTRIBUTOR"
+                }
+              ]
+            },
+            {
+              "id": "550e8400-e29b-41d4-a716-446655440229",
+              "name": "New Jaya Sri Products",
+              "description": "Overview of New Jaya Sri Products under KFP.",
+              "children": [
+                {
+                  "id": "550e8400-e29b-41d4-a716-446655440230",
+                  "name": "Freezer Truck - DAB-2175",
+                  "description": "Overview of New Jaya Sri Products under KFP.",
+                  "children": [],
+                  "has_sensor": true,
+                  "sensor_data": [
+                    {
+                      "sensor_id": "28875494",
+                      "sensor_type": "temperature",
+                      "sensor_value": 20
+                    }
+                  ],
+                  "widget_urls": [
+                    "https://cfs.beelive.lk/grafana/d/25497e36/freezer-truck-dab-2175?orgId=1&kiosk"
+                  ],
+                  "type": "DISTRIBUTOR"
+                }
+              ]
+            },
+            {
+              "id": "550e8400-e29b-41d4-a716-446655440232",
+              "name": "New Trio Trading",
+              "description": "Overview of New Trio Trading under KFP.",
+              "children": [
+                {
+                  "id": "550e8400-e29b-41d4-a716-446655440233",
+                  "name": "Freezer Truck - GK-0264",
+                  "description": "Overview of New Trio Trading under KFP.",
+                  "children": [],
+                  "has_sensor": true,
+                  "sensor_data": [
+                    {
+                      "sensor_id": "28681648",
+                      "sensor_type": "temperature",
+                      "sensor_value": 20
+                    }
+                  ],
+                  "widget_urls": [
+                    "https://cfs.beelive.lk/grafana/d/ff7a76b4/freezer-truck-gk-0264?orgId=1&kiosk"
+                  ],
+                  "type": "DISTRIBUTOR"
+                }
+              ]
+            },
+            {
+              "id": "550e8400-e29b-41d4-a716-446655440235",
+              "name": "Ovi Distributors",
+              "description": "Overview of Ovi Distributors under KFP.",
+              "children": [
+                {
+                  "id": "550e8400-e29b-41d4-a716-446655440236",
+                  "name": "Freezer Truck - DAB-3699",
+                  "description": "Overview of Ovi Distributors under KFP.",
+                  "children": [],
+                  "has_sensor": true,
+                  "sensor_data": [
+                    {
+                      "sensor_id": "28700675",
+                      "sensor_type": "temperature",
+                      "sensor_value": 20
+                    }
+                  ],
+                  "widget_urls": [
+                    "https://cfs.beelive.lk/grafana/d/3b3b899e/freezer-truck-dab-3699?orgId=1&kiosk"
+                  ],
+                  "type": "DISTRIBUTOR"
+                }
+              ]
+            },
+            {
+              "id": "550e8400-e29b-41d4-a716-446655440238",
+              "name": "Prasanna Distributors",
+              "description": "Overview of Prasanna Distributors under KFP.",
+              "children": [
+                {
+                  "id": "550e8400-e29b-41d4-a716-446655440239",
+                  "name": "Freezer Truck - DAH-7332",
+                  "description": "Overview of Prasanna Distributors under KFP.",
+                  "children": [],
+                  "has_sensor": true,
+                  "sensor_data": [
+                    {
+                      "sensor_id": "28716246",
+                      "sensor_type": "temperature",
+                      "sensor_value": 20
+                    }
+                  ],
+                  "widget_urls": [
+                    "https://cfs.beelive.lk/grafana/d/c69c580b/freezer-truck-dah-7332?orgId=1&kiosk"
+                  ],
+                  "type": "DISTRIBUTOR"
+                }
+              ]
+            },
+            {
+              "id": "550e8400-e29b-41d4-a716-446655440241",
+              "name": "R.T.S. Distributors",
+              "description": "Overview of R.T.S. Distributors under KFP.",
+              "children": [
+                {
+                  "id": "550e8400-e29b-41d4-a716-446655440242",
+                  "name": "Freezer Truck - DAE-3250",
+                  "description": "Overview of R.T.S. Distributors under KFP.",
+                  "children": [],
+                  "has_sensor": true,
+                  "sensor_data": [
+                    {
+                      "sensor_id": "28704367",
+                      "sensor_type": "temperature",
+                      "sensor_value": 20
+                    }
+                  ],
+                  "widget_urls": [
+                    "https://cfs.beelive.lk/grafana/d/66dbbb86/freezer-truck-dae-3250?orgId=1&kiosk"
+                  ],
+                  "type": "DISTRIBUTOR"
+                },
+                {
+                  "id": "550e8400-e29b-41d4-a716-446655440244",
+                  "name": "Freezer Truck - DAF-6489",
+                  "description": "Overview of R.T.S. Distributors under KFP.",
+                  "children": [],
+                  "has_sensor": true,
+                  "sensor_data": [
+                    {
+                      "sensor_id": "25956368",
+                      "sensor_type": "temperature",
+                      "sensor_value": 20
+                    }
+                  ],
+                  "widget_urls": [
+                    "https://cfs.beelive.lk/grafana/d/36ee2286/freezer-truck-daf-6489?orgId=1&kiosk"
+                  ],
+                  "type": "DISTRIBUTOR"
+                }
+              ]
+            },
+            {
+              "id": "550e8400-e29b-41d4-a716-446655440246",
+              "name": "Rasika Distributors",
+              "description": "Overview of Rasika Distributors under KFP.",
+              "children": [
+                {
+                  "id": "550e8400-e29b-41d4-a716-446655440247",
+                  "name": "Freezer Truck - DAA-4802",
+                  "description": "Overview of Rasika Distributors under KFP.",
+                  "children": [],
+                  "has_sensor": true,
+                  "sensor_data": [
+                    {
+                      "sensor_id": "28536046",
+                      "sensor_type": "temperature",
+                      "sensor_value": 20
+                    }
+                  ],
+                  "widget_urls": [
+                    "https://cfs.beelive.lk/grafana/d/7cf3a5dc/freezer-truck-daa-4802?orgId=1&kiosk"
+                  ],
+                  "type": "DISTRIBUTOR"
+                },
+                {
+                  "id": "550e8400-e29b-41d4-a716-446655440249",
+                  "name": "Freezer Truck - DAE-5231",
+                  "description": "Overview of Rasika Distributors under KFP.",
+                  "children": [],
+                  "has_sensor": true,
+                  "sensor_data": [
+                    {
+                      "sensor_id": "28757108",
+                      "sensor_type": "temperature",
+                      "sensor_value": 20
+                    }
+                  ],
+                  "widget_urls": [
+                    "https://cfs.beelive.lk/grafana/d/d6d042fc/freezer-truck-dae-5231?orgId=1&kiosk"
+                  ],
+                  "type": "DISTRIBUTOR"
+                }
+              ]
+            },
+            {
+              "id": "550e8400-e29b-41d4-a716-446655440251",
+              "name": "Sakalasooriya Food Products",
+              "description": "Overview of Sakalasooriya Food Products under KFP.",
+              "children": [
+                {
+                  "id": "550e8400-e29b-41d4-a716-446655440252",
+                  "name": "Freezer Truck - JG-9047",
+                  "description": "Overview of Sakalasooriya Food Products under KFP.",
+                  "children": [],
+                  "has_sensor": true,
+                  "sensor_data": [
+                    {
+                      "sensor_id": "28744263",
+                      "sensor_type": "temperature",
+                      "sensor_value": 20
+                    }
+                  ],
+                  "widget_urls": [
+                    "https://cfs.beelive.lk/grafana/d/3c16fa30/freezer-truck-jg-9047?orgId=1&kiosk"
+                  ],
+                  "type": "DISTRIBUTOR"
+                }
+              ]
+            },
+            {
+              "id": "550e8400-e29b-41d4-a716-446655440254",
+              "name": "Sanusha Distributors",
+              "description": "Overview of Sanusha Distributors under KFP.",
+              "children": [
+                {
+                  "id": "550e8400-e29b-41d4-a716-446655440255",
+                  "name": "Freezer Truck - LD-6170",
+                  "description": "Overview of Sanusha Distributors under KFP.",
+                  "children": [],
+                  "has_sensor": true,
+                  "sensor_data": [
+                    {
+                      "sensor_id": "25161590",
+                      "sensor_type": "temperature",
+                      "sensor_value": 20
+                    }
+                  ],
+                  "widget_urls": [
+                    "https://cfs.beelive.lk/grafana/d/c990c782/freezer-truck-ld-6170?orgId=1&kiosk"
+                  ],
+                  "type": "DISTRIBUTOR"
+                },
+                {
+                  "id": "550e8400-e29b-41d4-a716-446655440257",
+                  "name": "Freezer Truck - PV-4598",
+                  "description": "Overview of Sanusha Distributors under KFP.",
+                  "children": [],
+                  "has_sensor": true,
+                  "sensor_data": [
+                    {
+                      "sensor_id": "25161762",
+                      "sensor_type": "temperature",
+                      "sensor_value": 20
+                    }
+                  ],
+                  "widget_urls": [
+                    "https://cfs.beelive.lk/grafana/d/9346b1ad/freezer-truck-pv-4598?orgId=1&kiosk"
+                  ],
+                  "type": "DISTRIBUTOR"
+                }
+              ]
+            },
+            {
+              "id": "550e8400-e29b-41d4-a716-446655440259",
+              "name": "St.Therese",
+              "description": "Overview of St.Therese under KFP.",
+              "children": [
+                {
+                  "id": "550e8400-e29b-41d4-a716-446655440260",
+                  "name": "Freezer Truck - DAH-7723",
+                  "description": "Overview of St.Therese under KFP.",
+                  "children": [],
+                  "has_sensor": true,
+                  "sensor_data": [
+                    {
+                      "sensor_id": "26099067",
+                      "sensor_type": "temperature",
+                      "sensor_value": 20
+                    }
+                  ],
+                  "widget_urls": [
+                    "https://cfs.beelive.lk/grafana/d/ab0dacd5/freezer-truck-dah-7723?orgId=1&kiosk"
+                  ],
+                  "type": "DISTRIBUTOR"
+                },
+                {
+                  "id": "550e8400-e29b-41d4-a716-446655440262",
+                  "name": "Freezer Truck - PQ-6260",
+                  "description": "Overview of St.Therese under KFP.",
+                  "children": [],
+                  "has_sensor": true,
+                  "sensor_data": [
+                    {
+                      "sensor_id": "26099057",
+                      "sensor_type": "temperature",
+                      "sensor_value": 20
+                    }
+                  ],
+                  "widget_urls": [
+                    "https://cfs.beelive.lk/grafana/d/0bfea08e/freezer-truck-pq-6260?orgId=1&kiosk"
+                  ],
+                  "type": "DISTRIBUTOR"
+                },
+                {
+                  "id": "550e8400-e29b-41d4-a716-446655440264",
+                  "name": "Freezer Truck - PU-2530",
+                  "description": "Overview of St.Therese under KFP.",
+                  "children": [],
+                  "has_sensor": true,
+                  "sensor_data": [
+                    {
+                      "sensor_id": "26099032",
+                      "sensor_type": "temperature",
+                      "sensor_value": 20
+                    }
+                  ],
+                  "widget_urls": [
+                    "https://cfs.beelive.lk/grafana/d/48cc5766/freezer-truck-pu-2530?orgId=1&kiosk"
+                  ],
+                  "type": "DISTRIBUTOR"
+                }
+              ]
+            },
+            {
+              "id": "550e8400-e29b-41d4-a716-446655440266",
+              "name": "Susantha enterprises",
+              "description": "Overview of Susantha enterprises under KFP.",
+              "children": [
+                {
+                  "id": "550e8400-e29b-41d4-a716-446655440267",
+                  "name": "Freezer Truck - LM-4981",
+                  "description": "Overview of Susantha enterprises under KFP.",
+                  "children": [],
+                  "has_sensor": true,
+                  "sensor_data": [
+                    {
+                      "sensor_id": "28716306",
+                      "sensor_type": "temperature",
+                      "sensor_value": 20
+                    }
+                  ],
+                  "widget_urls": [
+                    "https://cfs.beelive.lk/grafana/d/d38b99a4/freezer-truck-lm-4981?orgId=1&kiosk"
+                  ],
+                  "type": "DISTRIBUTOR"
+                },
+                {
+                  "id": "550e8400-e29b-41d4-a716-446655440269",
+                  "name": "Freezer Truck - LP-3865",
+                  "description": "Overview of Susantha enterprises under KFP.",
+                  "children": [],
+                  "has_sensor": true,
+                  "sensor_data": [
+                    {
+                      "sensor_id": "28716265",
+                      "sensor_type": "temperature",
+                      "sensor_value": 20
+                    }
+                  ],
+                  "widget_urls": [
+                    "https://cfs.beelive.lk/grafana/d/1f3de2a3/freezer-truck-lp-3865?orgId=1&kiosk"
+                  ],
+                  "type": "DISTRIBUTOR"
+                },
+                {
+                  "id": "550e8400-e29b-41d4-a716-446655440271",
+                  "name": "Freezer Truck - PK-7183",
+                  "description": "Overview of Susantha enterprises under KFP.",
+                  "children": [],
+                  "has_sensor": true,
+                  "sensor_data": [
+                    {
+                      "sensor_id": "28716379",
+                      "sensor_type": "temperature",
+                      "sensor_value": 20
+                    }
+                  ],
+                  "widget_urls": [
+                    "https://cfs.beelive.lk/grafana/d/0d3f1eb0/freezer-truck-pk-7183?orgId=1&kiosk"
+                  ],
+                  "type": "DISTRIBUTOR"
+                }
+              ]
+            },
+            {
+              "id": "550e8400-e29b-41d4-a716-446655440273",
+              "name": "Tanish Distributors",
+              "description": "Overview of Tanish Distributors under KFP.",
+              "children": [
+                {
+                  "id": "550e8400-e29b-41d4-a716-446655440274",
+                  "name": "Freezer Truck - DAF-3744",
+                  "description": "Overview of Tanish Distributors under KFP.",
+                  "children": [],
+                  "has_sensor": true,
+                  "sensor_data": [
+                    {
+                      "sensor_id": "28686007",
+                      "sensor_type": "temperature",
+                      "sensor_value": 20
+                    }
+                  ],
+                  "widget_urls": [
+                    "https://cfs.beelive.lk/grafana/d/ea86a8d5/freezer-truck-daf-3744?orgId=1&kiosk"
+                  ],
+                  "type": "DISTRIBUTOR"
+                },
+                {
+                  "id": "550e8400-e29b-41d4-a716-446655440276",
+                  "name": "Freezer Truck - DAH-3257",
+                  "description": "Overview of Tanish Distributors under KFP.",
+                  "children": [],
+                  "has_sensor": true,
+                  "sensor_data": [
+                    {
+                      "sensor_id": "28685615",
+                      "sensor_type": "temperature",
+                      "sensor_value": 20
+                    }
+                  ],
+                  "widget_urls": [
+                    "https://cfs.beelive.lk/grafana/d/b1e586b4/freezer-truck-dah-3257?orgId=1&kiosk"
+                  ],
+                  "type": "DISTRIBUTOR"
+                }
+              ]
+            },
+            {
+              "id": "550e8400-e29b-41d4-a716-446655440278",
+              "name": "Thenuka Distributors",
+              "description": "Overview of Thenuka Distributors under KFP.",
+              "children": [
+                {
+                  "id": "550e8400-e29b-41d4-a716-446655440279",
+                  "name": "Freezer Truck - DAG-2462",
+                  "description": "Overview of Thenuka Distributors under KFP.",
+                  "children": [],
+                  "has_sensor": true,
+                  "sensor_data": [
+                    {
+                      "sensor_id": "25831566",
+                      "sensor_type": "temperature",
+                      "sensor_value": 20
+                    }
+                  ],
+                  "widget_urls": [
+                    "https://cfs.beelive.lk/grafana/d/10883e24/freezer-truck-dag-2462?orgId=1&kiosk"
+                  ],
+                  "type": "DISTRIBUTOR"
+                },
+                {
+                  "id": "550e8400-e29b-41d4-a716-446655440281",
+                  "name": "Freezer Truck - DAG-3039",
+                  "description": "Overview of Thenuka Distributors under KFP.",
+                  "children": [],
+                  "has_sensor": true,
+                  "sensor_data": [
+                    {
+                      "sensor_id": "25807189",
+                      "sensor_type": "temperature",
+                      "sensor_value": 20
+                    }
+                  ],
+                  "widget_urls": [
+                    "https://cfs.beelive.lk/grafana/d/a12edff6/freezer-truck-dag-3039?orgId=1&kiosk"
+                  ],
+                  "type": "DISTRIBUTOR"
+                },
+                {
+                  "id": "550e8400-e29b-41d4-a716-446655440283",
+                  "name": "Freezer Truck - DAG-9255",
+                  "description": "Overview of Thenuka Distributors under KFP.",
+                  "children": [],
+                  "has_sensor": true,
+                  "sensor_data": [
+                    {
+                      "sensor_id": "25127310",
+                      "sensor_type": "temperature",
+                      "sensor_value": 20
+                    }
+                  ],
+                  "widget_urls": [
+                    "https://cfs.beelive.lk/grafana/d/bb5a3312/freezer-truck-dag-9255?orgId=1&kiosk"
+                  ],
+                  "type": "DISTRIBUTOR"
+                },
+                {
+                  "id": "550e8400-e29b-41d4-a716-446655440285",
+                  "name": "Freezer Truck - DAH-5135",
+                  "description": "Overview of Thenuka Distributors under KFP.",
+                  "children": [],
+                  "has_sensor": true,
+                  "sensor_data": [
+                    {
+                      "sensor_id": "25831912",
+                      "sensor_type": "temperature",
+                      "sensor_value": 20
+                    }
+                  ],
+                  "widget_urls": [
+                    "https://cfs.beelive.lk/grafana/d/bf66df50/freezer-truck-dah-5135?orgId=1&kiosk"
+                  ],
+                  "type": "DISTRIBUTOR"
+                },
+                {
+                  "id": "550e8400-e29b-41d4-a716-446655440287",
+                  "name": "Freezer Truck - DAH-7525",
+                  "description": "Overview of Thenuka Distributors under KFP.",
+                  "children": [],
+                  "has_sensor": true,
+                  "sensor_data": [
+                    {
+                      "sensor_id": "25831622",
+                      "sensor_type": "temperature",
+                      "sensor_value": 20
+                    }
+                  ],
+                  "widget_urls": [
+                    "https://cfs.beelive.lk/grafana/d/ad1963d6/freezer-truck-dah-7525?orgId=1&kiosk"
+                  ],
+                  "type": "DISTRIBUTOR"
+                }
+              ]
+            },
+            {
+              "id": "550e8400-e29b-41d4-a716-446655440289",
+              "name": "Toraana Distributors",
+              "description": "Overview of Toraana Distributors under KFP.",
+              "children": [
+                {
+                  "id": "550e8400-e29b-41d4-a716-446655440290",
+                  "name": "Freezer Truck - PU-8577",
+                  "description": "Overview of Toraana Distributors under KFP.",
+                  "children": [],
+                  "has_sensor": true,
+                  "sensor_data": [
+                    {
+                      "sensor_id": "28700662",
+                      "sensor_type": "temperature",
+                      "sensor_value": 20
+                    }
+                  ],
+                  "widget_urls": [
+                    "https://cfs.beelive.lk/grafana/d/ed3241f5/freezer-truck-pu-8577?orgId=1&kiosk"
+                  ],
+                  "type": "DISTRIBUTOR"
+                }
+              ]
+            },
+            {
+              "id": "550e8400-e29b-41d4-a716-446655440292",
+              "name": "Walgampaya Distributors",
+              "description": "Overview of Walgampaya Distributors under KFP.",
+              "children": [
+                {
+                  "id": "550e8400-e29b-41d4-a716-446655440293",
+                  "name": "Freezer Truck - DAF-3846",
+                  "description": "Overview of Walgampaya Distributors under KFP.",
+                  "children": [],
+                  "has_sensor": true,
+                  "sensor_data": [
+                    {
+                      "sensor_id": "28932754",
+                      "sensor_type": "temperature",
+                      "sensor_value": 20
+                    }
+                  ],
+                  "widget_urls": [
+                    "https://cfs.beelive.lk/grafana/d/009c2f43/freezer-truck-daf-3846?orgId=1&kiosk"
+                  ],
+                  "type": "DISTRIBUTOR"
+                }
+              ]
+            },
+            {
+              "id": "550e8400-e29b-41d4-a716-446655440295",
+              "name": "Wijayathunga Distributors",
+              "description": "Overview of Wijayathunga Distributors under KFP.",
+              "children": [
+                {
+                  "id": "550e8400-e29b-41d4-a716-446655440296",
+                  "name": "Freezer Truck - DAH-8134",
+                  "description": "Overview of Wijayathunga Distributors under KFP.",
+                  "children": [],
+                  "has_sensor": true,
+                  "sensor_data": [
+                    {
+                      "sensor_id": "25161014",
+                      "sensor_type": "temperature",
+                      "sensor_value": 20
+                    }
+                  ],
+                  "widget_urls": [
+                    "https://cfs.beelive.lk/grafana/d/165366a4/freezer-truck-dah-8134?orgId=1&kiosk"
+                  ],
+                  "type": "DISTRIBUTOR"
+                },
+                {
+                  "id": "550e8400-e29b-41d4-a716-446655440298",
+                  "name": "Freezer Truck - LB-2415",
+                  "description": "Overview of Wijayathunga Distributors under KFP.",
+                  "children": [],
+                  "has_sensor": true,
+                  "sensor_data": [
+                    {
+                      "sensor_id": "25161169",
+                      "sensor_type": "temperature",
+                      "sensor_value": 20
+                    }
+                  ],
+                  "widget_urls": [
+                    "https://cfs.beelive.lk/grafana/d/d6936a02/freezer-truck-lb-2415?orgId=1&kiosk"
+                  ],
+                  "type": "DISTRIBUTOR"
+                },
+                {
+                  "id": "550e8400-e29b-41d4-a716-446655440300",
+                  "name": "Freezer Truck - PU-5590",
+                  "description": "Overview of Wijayathunga Distributors under KFP.",
+                  "children": [],
+                  "has_sensor": true,
+                  "sensor_data": [
+                    {
+                      "sensor_id": "25160971",
+                      "sensor_type": "temperature",
+                      "sensor_value": 20
+                    }
+                  ],
+                  "widget_urls": [
+                    "https://cfs.beelive.lk/grafana/d/d2484601/freezer-truck-pu-5590?orgId=1&kiosk"
+                  ],
+                  "type": "DISTRIBUTOR"
+                }
+              ]
+            },
+            {
+              "id": "550e8400-e29b-41d4-a716-446655440302",
+              "name": "Wijayathunga Holdings",
+              "description": "Overview of Wijayathunga Holdings under KFP.",
+              "children": [
+                {
+                  "id": "550e8400-e29b-41d4-a716-446655440303",
+                  "name": "Freezer Truck - LC-9340",
+                  "description": "Overview of Wijayathunga Holdings under KFP.",
+                  "children": [],
+                  "has_sensor": true,
+                  "sensor_data": [
+                    {
+                      "sensor_id": "25161052",
+                      "sensor_type": "temperature",
+                      "sensor_value": 20
+                    }
+                  ],
+                  "widget_urls": [
+                    "https://cfs.beelive.lk/grafana/d/175987a0/freezer-truck-lc-9340?orgId=1&kiosk"
+                  ],
+                  "type": "DISTRIBUTOR"
+                }
+              ]
+            },
+            {
+              "id": "550e8400-e29b-41d4-a716-446655440305",
+              "name": "Wijayatunga Holdings (Pvt)Ltd Kandy",
+              "description": "Overview of Wijayatunga Holdings (Pvt)Ltd Kandy under KFP.",
+              "children": [
+                {
+                  "id": "550e8400-e29b-41d4-a716-446655440306",
+                  "name": "Freezer Truck - 43-9831",
+                  "description": "Overview of Wijayatunga Holdings (Pvt)Ltd Kandy under KFP.",
+                  "children": [],
+                  "has_sensor": true,
+                  "sensor_data": [
+                    {
+                      "sensor_id": "28762858",
+                      "sensor_type": "temperature",
+                      "sensor_value": 20
+                    }
+                  ],
+                  "widget_urls": [
+                    "https://cfs.beelive.lk/grafana/d/ffca9da4/freezer-truck-43-9831?orgId=1&kiosk"
+                  ],
+                  "type": "DISTRIBUTOR"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "550e8400-e29b-41d4-a716-446655440308",
+          "name": "Vehicles",
+          "description": "Overview of all Vehicles under KFP.",
+          "children": [
+            {
+              "id": "550e8400-e29b-41d4-a716-446655440309",
+              "name": "EH Transfer - LP-3683",
+              "description": "Overview of Vehicles under KFP.",
+              "children": [],
+              "has_sensor": true,
+              "sensor_data": [
+                {
+                  "sensor_id": "26078225",
+                  "sensor_type": "temperature",
+                  "sensor_value": 20
+                }
+              ],
+              "widget_urls": [
+                "https://cfs.beelive.lk/grafana/d/56de203d/eh-transfer-lp-3683?orgId=1&kiosk"
+              ],
+              "type": "VEHICLE"
+            },
+            {
+              "id": "550e8400-e29b-41d4-a716-446655440311",
+              "name": "Freezer Truck - LP-0959",
+              "description": "Overview of Vehicles under KFP.",
+              "children": [],
+              "has_sensor": true,
+              "sensor_data": [
+                {
+                  "sensor_id": "26077469",
+                  "sensor_type": "temperature",
+                  "sensor_value": 20
+                }
+              ],
+              "widget_urls": [
+                "https://cfs.beelive.lk/grafana/d/0e25f96f/freezer-truck-lp-0959?orgId=1&kiosk"
+              ],
+              "type": "VEHICLE"
+            },
+            {
+              "id": "550e8400-e29b-41d4-a716-446655440312",
+              "name": "KREST Transfer - LO-2788",
+              "description": "Overview of Vehicles under KFP.",
+              "children": [],
+              "has_sensor": true,
+              "sensor_data": [
+                {
+                  "sensor_id": "26079327",
+                  "sensor_type": "temperature",
+                  "sensor_value": 20
+                }
+              ],
+              "widget_urls": [
+                "https://cfs.beelive.lk/grafana/d/64f4821e/krest-transfer-lo-2788?orgId=1&kiosk"
+              ],
+              "type": "VEHICLE"
+            },
+            {
+              "id": "550e8400-e29b-41d4-a716-446655440338",
+              "name": "New Jaya Sri",
+              "description": "Overview of Vehicles under KFP.",
+              "children": [
+                {
+                  "id": "550e8400-e29b-41d4-a716-446655440339",
+                  "name": "Freezer Truck - LO-6044",
+                  "description": "Overview of Vehicles under KFP.",
+                  "children": [],
+                  "has_sensor": true,
+                  "sensor_data": [
+                    {
+                      "sensor_id": "28464366",
+                      "sensor_type": "temperature",
+                      "sensor_value": 20
+                    }
+                  ],
+                  "widget_urls": [
+                    "https://cfs.beelive.lk/grafana/d/15934c2b/freezer-truck-lo-6044?orgId=1&kiosk"
+                  ],
+                  "type": "VEHICLE"
+                }
+              ]
+            },
+            {
+              "id": "550e8400-e29b-41d4-a716-446655440316",
+              "name": "Oki Doki - LN-0563",
+              "description": "Overview of Vehicles under KFP.",
+              "children": [],
+              "has_sensor": true,
+              "sensor_data": [
+                {
+                  "sensor_id": "27450135",
+                  "sensor_type": "temperature",
+                  "sensor_value": 20
+                }
+              ],
+              "widget_urls": [
+                "https://cfs.beelive.lk/grafana/d/29d1da06/oki-doki-ln-0563?orgId=1&kiosk"
+              ],
+              "type": "VEHICLE"
+            },
+            {
+              "id": "550e8400-e29b-41d4-a716-446655440318",
+              "name": "Oki Doki - LN-4723",
+              "description": "Overview of Vehicles under KFP.",
+              "children": [],
+              "has_sensor": true,
+              "sensor_data": [
+                {
+                  "sensor_id": "27484675",
+                  "sensor_type": "temperature",
+                  "sensor_value": 20
+                }
+              ],
+              "widget_urls": [
+                "https://cfs.beelive.lk/grafana/d/11ad8d86/oki-doki-ln-4723?orgId=1&kiosk"
+              ],
+              "type": "VEHICLE"
+            },
+            {
+              "id": "550e8400-e29b-41d4-a716-446655440320",
+              "name": "Oki Doki - LN-4723",
+              "description": "Overview of Vehicles under KFP.",
+              "children": [],
+              "has_sensor": true,
+              "sensor_data": [
+                {
+                  "sensor_id": "27215840",
+                  "sensor_type": "temperature",
+                  "sensor_value": 20
+                }
+              ],
+              "widget_urls": [
+                "https://cfs.beelive.lk/grafana/d/43ab8c52/oki-doki-ln-4723?orgId=1&kiosk"
+              ],
+              "type": "VEHICLE"
+            },
+            {
+              "id": "550e8400-e29b-41d4-a716-446655440322",
+              "name": "Oki Doki - LP-1132",
+              "description": "Overview of Vehicles under KFP.",
+              "children": [],
+              "has_sensor": true,
+              "sensor_data": [
+                {
+                  "sensor_id": "27566725",
+                  "sensor_type": "temperature",
+                  "sensor_value": 20
+                }
+              ],
+              "widget_urls": [
+                "https://cfs.beelive.lk/grafana/d/b08b6d2c/oki-doki-lp-1132?orgId=1&kiosk"
+              ],
+              "type": "VEHICLE"
+            },
+            {
+              "id": "550e8400-e29b-41d4-a716-446655440324",
+              "name": "Oki Doki - LP-1429",
+              "description": "Overview of Vehicles under KFP.",
+              "children": [],
+              "has_sensor": true,
+              "sensor_data": [
+                {
+                  "sensor_id": "27861831",
+                  "sensor_type": "temperature",
+                  "sensor_value": 20
+                }
+              ],
+              "widget_urls": [
+                "https://cfs.beelive.lk/grafana/d/3c89282f/oki-doki-lp-1429?orgId=1&kiosk"
+              ],
+              "type": "VEHICLE"
+            },
+            {
+              "id": "550e8400-e29b-41d4-a716-446655440326",
+              "name": "Thermo - LG-2311",
+              "description": "Overview of Vehicles under KFP.",
+              "children": [],
+              "has_sensor": true,
+              "sensor_data": [
+                {
+                  "sensor_id": "26074588",
+                  "sensor_type": "temperature",
+                  "sensor_value": 20
+                }
+              ],
+              "widget_urls": [
+                "https://cfs.beelive.lk/grafana/d/cbc1f790/thermo-lg-2311?orgId=1&kiosk"
+              ],
+              "type": "VEHICLE"
+            },
+            {
+              "id": "550e8400-e29b-41d4-a716-446655440328",
+              "name": "Thermo - LO-8782",
+              "description": "Overview of Vehicles under KFP.",
+              "children": [],
+              "has_sensor": true,
+              "sensor_data": [
+                {
+                  "sensor_id": "26074420",
+                  "sensor_type": "temperature",
+                  "sensor_value": 20
+                }
+              ],
+              "widget_urls": [
+                "https://cfs.beelive.lk/grafana/d/a32e55c9/thermo-lo-8782?orgId=1&kiosk"
+              ],
+              "type": "VEHICLE"
+            },
+            {
+              "id": "550e8400-e29b-41d4-a716-446655440330",
+              "name": "WCT - LK-5573",
+              "description": "Overview of Vehicles under KFP.",
+              "children": [],
+              "has_sensor": true,
+              "sensor_data": [
+                {
+                  "sensor_id": "27333897",
+                  "sensor_type": "temperature",
+                  "sensor_value": 20
+                }
+              ],
+              "widget_urls": [
+                "https://cfs.beelive.lk/grafana/d/09bcfe8a/wct-lk-5573?orgId=1&kiosk"
+              ],
+              "type": "VEHICLE"
+            },
+            {
+              "id": "550e8400-e29b-41d4-a716-446655440332",
+              "name": "WCT - LM-2126",
+              "description": "Overview of Vehicles under KFP.",
+              "children": [],
+              "has_sensor": true,
+              "sensor_data": [
+                {
+                  "sensor_id": "27333611",
+                  "sensor_type": "temperature",
+                  "sensor_value": 20
+                }
+              ],
+              "widget_urls": [
+                "https://cfs.beelive.lk/grafana/d/af859982/wct-lm-2126?orgId=1&kiosk"
+              ],
+              "type": "VEHICLE"
+            },
+            {
+              "id": "550e8400-e29b-41d4-a716-446655440334",
+              "name": "WCT - LN-0025",
+              "description": "Overview of Vehicles under KFP.",
+              "children": [],
+              "has_sensor": true,
+              "sensor_data": [
+                {
+                  "sensor_id": "27333673",
+                  "sensor_type": "temperature",
+                  "sensor_value": 20
+                }
+              ],
+              "widget_urls": [
+                "https://cfs.beelive.lk/grafana/d/b8568cdd/wct-ln-0025?orgId=1&kiosk"
+              ],
+              "type": "VEHICLE"
+            },
+            {
+              "id": "550e8400-e29b-41d4-a716-446655440336",
+              "name": "WCT - LO-9138",
+              "description": "Overview of Vehicles under KFP.",
+              "children": [],
+              "has_sensor": true,
+              "sensor_data": [
+                {
+                  "sensor_id": "27333746",
+                  "sensor_type": "temperature",
+                  "sensor_value": 20
+                }
+              ],
+              "widget_urls": [
+                "https://cfs.beelive.lk/grafana/d/e7524c10/wct-lo-9138?orgId=1&kiosk"
+              ],
+              "type": "VEHICLE"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "550e8400-e29b-41d4-a716-446655440056",
+      "name": "CICL",
+      "description": "Top-level hierarchy for CICL operations.",
+      "children": [
+        {
+          "id": "550e8400-e29b-41d4-a716-446655440057",
+          "name": "Vehicles",
+          "description": "Overview of vehicles under CICL.",
+          "children": [
+            {
+              "id": "550e8400-e29b-41d4-a716-446655440058",
+              "name": "Freezer Truck - LO-0924",
+              "description": "Overview of vehicles under CICL.",
+              "children": [],
+              "has_sensor": true,
+              "sensor_data": [
+                {
+                  "sensor_id": "17996040",
+                  "sensor_type": "temperature",
+                  "sensor_value": 20
+                }
+              ],
+              "widget_urls": [
+                "https://cfs.beelive.lk/grafana/d/545a86a3/freezer-truck-lo-0924?orgId=1&kiosk"
+              ],
+              "type": "VEHICLE"
+            },
+            {
+              "id": "550e8400-e29b-41d4-a716-446655440060",
+              "name": "Freezer Truck - LO-0925",
+              "description": "Overview of vehicles under CICL.",
+              "children": [],
+              "has_sensor": true,
+              "sensor_data": [
+                {
+                  "sensor_id": "17996282",
+                  "sensor_type": "temperature",
+                  "sensor_value": 20
+                }
+              ],
+              "widget_urls": [
+                "https://cfs.beelive.lk/grafana/d/b68ebf2a/freezer-truck-lo-0925?orgId=1&kiosk"
+              ],
+              "type": "VEHICLE"
+            },
+            {
+              "id": "550e8400-e29b-41d4-a716-446655440062",
+              "name": "Freezer Truck - LO-0927",
+              "description": "Overview of vehicles under CICL.",
+              "children": [],
+              "has_sensor": true,
+              "sensor_data": [
+                {
+                  "sensor_id": "17995994",
+                  "sensor_type": "temperature",
+                  "sensor_value": 20
+                }
+              ],
+              "widget_urls": [
+                "https://cfs.beelive.lk/grafana/d/a969e1fe/freezer-truck-lo-0927?orgId=1&kiosk"
+              ],
+              "type": "VEHICLE"
+            },
+            {
+              "id": "550e8400-e29b-41d4-a716-446655440064",
+              "name": "Freezer Truck - LO-0928",
+              "description": "Overview of vehicles under CICL.",
+              "children": [],
+              "has_sensor": true,
+              "sensor_data": [
+                {
+                  "sensor_id": "17996251",
+                  "sensor_type": "temperature",
+                  "sensor_value": 20
+                }
+              ],
+              "widget_urls": [
+                "https://cfs.beelive.lk/grafana/d/1331c366/freezer-truck-lo-0928?orgId=1&kiosk"
+              ],
+              "type": "VEHICLE"
+            },
+            {
+              "id": "550e8400-e29b-41d4-a716-446655440066",
+              "name": "Freezer Truck - LO-0929",
+              "description": "Overview of vehicles under CICL.",
+              "children": [],
+              "has_sensor": true,
+              "sensor_data": [
+                {
+                  "sensor_id": "17996429",
+                  "sensor_type": "temperature",
+                  "sensor_value": 20
+                }
+              ],
+              "widget_urls": [
+                "https://cfs.beelive.lk/grafana/d/fd9a77ec/freezer-truck-lo-0929?orgId=1&kiosk"
+              ],
+              "type": "VEHICLE"
+            },
+            {
+              "id": "550e8400-e29b-41d4-a716-446655440068",
+              "name": "Freezer Truck - LO-3899",
+              "description": "Overview of vehicles under CICL.",
+              "children": [],
+              "has_sensor": true,
+              "sensor_data": [
+                {
+                  "sensor_id": "19254877",
+                  "sensor_type": "temperature",
+                  "sensor_value": 20
+                }
+              ],
+              "widget_urls": [
+                "https://cfs.beelive.lk/grafana/d/12f57f81/freezer-truck-lo-3899?orgId=1&kiosk"
+              ],
+              "type": "VEHICLE"
+            },
+            {
+              "id": "550e8400-e29b-41d4-a716-446655440070",
+              "name": "Freezer Truck - LO-3900",
+              "description": "Overview of vehicles under CICL.",
+              "children": [],
+              "has_sensor": true,
+              "sensor_data": [
+                {
+                  "sensor_id": "19262300",
+                  "sensor_type": "temperature",
+                  "sensor_value": 20
+                }
+              ],
+              "widget_urls": [
+                "https://cfs.beelive.lk/grafana/d/35e1487b/freezer-truck-lo-3900?orgId=1&kiosk"
+              ],
+              "type": "VEHICLE"
+            },
+            {
+              "id": "550e8400-e29b-41d4-a716-446655440072",
+              "name": "Freezer Truck - LO-3906",
+              "description": "Overview of vehicles under CICL.",
+              "children": [],
+              "has_sensor": true,
+              "sensor_data": [
+                {
+                  "sensor_id": "19256893",
+                  "sensor_type": "temperature",
+                  "sensor_value": 20
+                }
+              ],
+              "widget_urls": [
+                "https://cfs.beelive.lk/grafana/d/15119023/freezer-truck-lo-3906?orgId=1&kiosk"
+              ],
+              "type": "VEHICLE"
+            },
+            {
+              "id": "550e8400-e29b-41d4-a716-446655440074",
+              "name": "Freezer Truck - LO-7581",
+              "description": "Overview of vehicles under CICL.",
+              "children": [],
+              "has_sensor": true,
+              "sensor_data": [
+                {
+                  "sensor_id": "27331066",
+                  "sensor_type": "temperature",
+                  "sensor_value": 20
+                }
+              ],
+              "widget_urls": [
+                "https://cfs.beelive.lk/grafana/d/aacea2c5/freezer-truck-lo-7581?orgId=1&kiosk"
+              ],
+              "type": "VEHICLE"
+            },
+            {
+              "id": "550e8400-e29b-41d4-a716-446655440076",
+              "name": "Freezer Truck - LO-8224",
+              "description": "Overview of vehicles under CICL.",
+              "children": [],
+              "has_sensor": true,
+              "sensor_data": [
+                {
+                  "sensor_id": "28506477",
+                  "sensor_type": "temperature",
+                  "sensor_value": 20
+                }
+              ],
+              "widget_urls": [
+                "https://cfs.beelive.lk/grafana/d/59dbe394/freezer-truck-lo-8224?orgId=1&kiosk"
+              ],
+              "type": "VEHICLE"
+            },
+            {
+              "id": "550e8400-e29b-41d4-a716-446655440078",
+              "name": "Freezer Truck - LO-8929",
+              "description": "Overview of vehicles under CICL.",
+              "children": [],
+              "has_sensor": true,
+              "sensor_data": [
+                {
+                  "sensor_id": "27303010",
+                  "sensor_type": "temperature",
+                  "sensor_value": 20
+                }
+              ],
+              "widget_urls": [
+                "https://cfs.beelive.lk/grafana/d/7c6683d4/freezer-truck-lo-8929?orgId=1&kiosk"
+              ],
+              "type": "VEHICLE"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

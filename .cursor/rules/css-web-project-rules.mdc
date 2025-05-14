@@ -1,0 +1,52 @@
+---
+description: 
+globs: 
+alwaysApply: false
+---
+# Project Structure Rules
+
+## Component Structure
+- Always check if a component already exists in `src/components/ui/` directory before creating a new one.
+- If a component doesn't exist, check [shadcn/ui components library](mdc:https:/ui.shadcn.com/docs/components) to get pre-built components.
+- Custom components should be placed in the appropriate directory based on their function:
+  - UI components in `src/components/ui/`
+  - Auth-related components in `src/components/auth/`
+  - Feature-specific components in `src/components/` root
+
+## Routing
+- This project uses Next.js App Router architecture.
+- All authentication-related routes are defined in the `src/app/(auth)/` group.
+- API routes should be defined in `src/app/api/` directory.
+
+## API Hooks
+- All API interactions should use React Query hooks.
+- API hooks must be defined in the `src/hooks` directory.
+- Follow the naming convention `use-{resource}.ts` for API hooks.
+- Implement proper error handling and loading states in all hooks.
+
+## Types
+- Shared types are defined in the `src/types` directory.
+- Follow the naming convention `{feature}.ts` for type files.
+- Export all types from their respective files.
+- Import types from `src/types` when needed in components or hooks.
+
+## Code Style
+- Follow existing code style and structure when making changes.
+- Use TypeScript for all new files.
+- Use functional components with hooks for React components.
+- Use shadcn/ui components when available rather than creating new UI components.
+
+## State Management
+- Use React Context for global state when needed.
+- Context providers should be defined in `src/contexts/` directory.
+
+## Authentication
+- All auth-related functionality should use the existing auth system.
+- Auth routes are grouped in `src/app/(auth)/`.
+- Auth-related components are in `src/components/auth/`.
+- Auth hooks are in `src/hooks/use-auth.ts`.
+
+## Style Guidelines
+- Use Tailwind CSS for styling components.
+- Follow the existing design system and color palette.
+- Use the utility classes defined in the project.
